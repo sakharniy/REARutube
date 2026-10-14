@@ -1,0 +1,1322 @@
+{
+ "next_video": {
+  "id": "6231fac1eec33924a670ef8431d832bb",
+  "action_reason": {
+   "id": 0,
+   "name": ""
+  },
+  "author": {
+   "avatar_url": "https://pic.rtbcdn.ru/user/2026-07-20/c1/e7/c1e7d17b3533d4fe9b0d7af96c8fd03e.jpg",
+   "id": 45087022,
+   "name": "Документальные Фильмы",
+   "site_url": "https://rutube.ru/video/person/45087022/"
+  },
+  "category": {
+   "category_url": "https://rutube.ru/video/category/57/",
+   "for_kids": false,
+   "id": 57,
+   "name": "Развлечения",
+   "short_name": ""
+  },
+  "pg_rating": {
+   "age": 12,
+   "logo": "https://pic.rtbcdn.ru/agerestriction/99/0e/990e87f25d8689833de24c0eb7eaec81.png"
+  },
+  "age_range": {
+   "min": 0,
+   "max": 0
+  },
+  "created_ts": "2026-05-08T09:29:04",
+  "description": "MAX - https://max.ru/join/zkmMJf_u9kPN2C5FpjbtWqqBbAeqh_b6q0Hb2mQnRGE\nVK - https://vk.ru/dokumentalfilms",
+  "duration": 3667,
+  "embed_url": "https://rutube.ru/play/embed/6231fac1eec33924a670ef8431d832bb",
+  "feed_name": "Документальные Фильмы",
+  "feed_url": "https://rutube.ru/video/person/45087022/",
+  "hits": 22644,
+  "html": "<iframe width=\"720\" height=\"405\" src=\"https://rutube.ru/play/embed/6231fac1eec33924a670ef8431d832bb\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowfullscreen allow=\"encrypted-media\"></iframe>",
+  "is_adult": false,
+  "is_audio": false,
+  "is_club": false,
+  "is_classic": true,
+  "is_deleted": false,
+  "is_hidden": false,
+  "is_licensed": false,
+  "is_livestream": false,
+  "is_locked": false,
+  "is_official": false,
+  "is_original_content": false,
+  "is_original_sticker_2x2": false,
+  "is_paid": false,
+  "is_reborn_channel": false,
+  "kind_sign_for_user": true,
+  "is_on_air": false,
+  "last_update_ts": "2026-06-11T17:17:07",
+  "origin_type": "rtb",
+  "picture_url": "",
+  "position": 0,
+  "preview_url": "https://preview.rutube.ru/preview/6231fac1eec33924a670ef8431d832bb.webp?exp=1791990738&s=LB4BtY2DnZBlOb9k0KsEBg",
+  "product_id": 0,
+  "publication_ts": "2026-06-11T17:17:07",
+  "stream_type": "",
+  "thumbnail_url": "https://pic.rtbcdn.ru/video/2026-05-24/c1/fd/c1fd52efa5ccafc318431707aa54a8af.jpg",
+  "title": "Что уничтожило Атлантиду? Тайна погибшей цивилизации | Документальный Фильм",
+  "track_id": 453656142,
+  "video_url": "https://rutube.ru/video/6231fac1eec33924a670ef8431d832bb/"
+ },
+ "recommendation": [
+  {
+   "video": {
+    "id": "6231fac1eec33924a670ef8431d832bb",
+    "action_reason": {
+     "id": 0,
+     "name": ""
+    },
+    "author": {
+     "avatar_url": "https://pic.rtbcdn.ru/user/2026-07-20/c1/e7/c1e7d17b3533d4fe9b0d7af96c8fd03e.jpg",
+     "id": 45087022,
+     "name": "Документальные Фильмы",
+     "site_url": "https://rutube.ru/video/person/45087022/"
+    },
+    "category": {
+     "category_url": "https://rutube.ru/video/category/57/",
+     "for_kids": false,
+     "id": 57,
+     "name": "Развлечения",
+     "short_name": ""
+    },
+    "pg_rating": {
+     "age": 12,
+     "logo": "https://pic.rtbcdn.ru/agerestriction/99/0e/990e87f25d8689833de24c0eb7eaec81.png"
+    },
+    "age_range": {
+     "min": 0,
+     "max": 0
+    },
+    "created_ts": "2026-05-08T09:29:04",
+    "description": "MAX - https://max.ru/join/zkmMJf_u9kPN2C5FpjbtWqqBbAeqh_b6q0Hb2mQnRGE\nVK - https://vk.ru/dokumentalfilms",
+    "duration": 3667,
+    "embed_url": "https://rutube.ru/play/embed/6231fac1eec33924a670ef8431d832bb",
+    "feed_name": "Документальные Фильмы",
+    "feed_url": "https://rutube.ru/video/person/45087022/",
+    "hits": 22644,
+    "html": "<iframe width=\"720\" height=\"405\" src=\"https://rutube.ru/play/embed/6231fac1eec33924a670ef8431d832bb\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowfullscreen allow=\"encrypted-media\"></iframe>",
+    "is_adult": false,
+    "is_audio": false,
+    "is_club": false,
+    "is_classic": true,
+    "is_deleted": false,
+    "is_hidden": false,
+    "is_licensed": false,
+    "is_livestream": false,
+    "is_locked": false,
+    "is_official": false,
+    "is_original_content": false,
+    "is_original_sticker_2x2": false,
+    "is_paid": false,
+    "is_reborn_channel": false,
+    "kind_sign_for_user": true,
+    "is_on_air": false,
+    "last_update_ts": "2026-06-11T17:17:07",
+    "origin_type": "rtb",
+    "picture_url": "",
+    "position": 0,
+    "preview_url": "https://preview.rutube.ru/preview/6231fac1eec33924a670ef8431d832bb.webp?exp=1791990738&s=LB4BtY2DnZBlOb9k0KsEBg",
+    "product_id": 0,
+    "publication_ts": "2026-06-11T17:17:07",
+    "stream_type": "",
+    "thumbnail_url": "https://pic.rtbcdn.ru/video/2026-05-24/c1/fd/c1fd52efa5ccafc318431707aa54a8af.jpg",
+    "title": "Что уничтожило Атлантиду? Тайна погибшей цивилизации | Документальный Фильм",
+    "track_id": 453656142,
+    "video_url": "https://rutube.ru/video/6231fac1eec33924a670ef8431d832bb/"
+   }
+  },
+  {
+   "video": {
+    "id": "0013ba4223e75708c511e39bb627a670",
+    "action_reason": {
+     "id": 0,
+     "name": ""
+    },
+    "author": {
+     "avatar_url": "https://pic.rtbcdn.ru/user/78/cf/78cff0fc210aec14bcd7cc41f5b1c50d.jpg",
+     "id": 40479003,
+     "name": "Видеожурнал \"Непознанное\"",
+     "site_url": "https://rutube.ru/video/person/40479003/"
+    },
+    "category": {
+     "category_url": "https://rutube.ru/video/category/57/",
+     "for_kids": false,
+     "id": 57,
+     "name": "Развлечения",
+     "short_name": ""
+    },
+    "pg_rating": {
+     "age": 12,
+     "logo": "https://pic.rtbcdn.ru/agerestriction/99/0e/990e87f25d8689833de24c0eb7eaec81.png"
+    },
+    "age_range": {
+     "min": 0,
+     "max": 0
+    },
+    "created_ts": "2026-01-06T18:59:39",
+    "description": "",
+    "duration": 4991,
+    "embed_url": "https://rutube.ru/play/embed/0013ba4223e75708c511e39bb627a670",
+    "feed_name": "Видеожурнал \"Непознанное\"",
+    "feed_url": "https://rutube.ru/video/person/40479003/",
+    "hits": 31875,
+    "html": "<iframe width=\"720\" height=\"405\" src=\"https://rutube.ru/play/embed/0013ba4223e75708c511e39bb627a670\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowfullscreen allow=\"encrypted-media\"></iframe>",
+    "is_adult": false,
+    "is_audio": false,
+    "is_club": false,
+    "is_classic": true,
+    "is_deleted": false,
+    "is_hidden": false,
+    "is_licensed": false,
+    "is_livestream": false,
+    "is_locked": false,
+    "is_official": false,
+    "is_original_content": false,
+    "is_original_sticker_2x2": false,
+    "is_paid": false,
+    "is_reborn_channel": false,
+    "kind_sign_for_user": false,
+    "is_on_air": false,
+    "last_update_ts": "2026-01-26T18:00:06",
+    "origin_type": "rtb",
+    "picture_url": "",
+    "position": 0,
+    "preview_url": "https://preview.rutube.ru/preview/0013ba4223e75708c511e39bb627a670.webp?exp=1791990370&s=RciyC9Q6Jn5-uGl-sgwbRQ",
+    "product_id": 0,
+    "publication_ts": "2026-01-26T18:00:06",
+    "stream_type": "",
+    "thumbnail_url": "https://pic.rtbcdn.ru/video/2026-01-06/e5/d1/e5d1e529b5ebe6caa52948ed9fbda340.jpg",
+    "title": "Мы — 9 цивилизация на этой Планете, и доказательства этого почти были стерты",
+    "track_id": 443071261,
+    "video_url": "https://rutube.ru/video/0013ba4223e75708c511e39bb627a670/"
+   }
+  },
+  {
+   "video": {
+    "id": "86306c0b62e902b308cb0a50d3327c3a",
+    "action_reason": {
+     "id": 0,
+     "name": ""
+    },
+    "author": {
+     "avatar_url": "https://pic.rtbcdn.ru/user/2026-07-20/c1/e7/c1e7d17b3533d4fe9b0d7af96c8fd03e.jpg",
+     "id": 45087022,
+     "name": "Документальные Фильмы",
+     "site_url": "https://rutube.ru/video/person/45087022/"
+    },
+    "category": {
+     "category_url": "https://rutube.ru/video/category/57/",
+     "for_kids": false,
+     "id": 57,
+     "name": "Развлечения",
+     "short_name": ""
+    },
+    "pg_rating": {
+     "age": 12,
+     "logo": "https://pic.rtbcdn.ru/agerestriction/99/0e/990e87f25d8689833de24c0eb7eaec81.png"
+    },
+    "age_range": {
+     "min": 0,
+     "max": 0
+    },
+    "created_ts": "2026-08-02T10:53:59",
+    "description": "MAX - https://max.ru/join/zkmMJf_u9kPN2C5FpjbtWqqBbAeqh_b6q0Hb2mQnRGE\nVK - https://vk.ru/dokumentalfilms\n\nДревний город, почти две тысячи лет скрывавшийся под пустынями Ирака. Запечатанная египетская камера с двадцатью двумя расписными саркофагами. Затопленный лесной мир под Северным морем. Следы чумы в останках сибирских охотников и собирателей возрастом 5 500 лет.\n\nВ этом большом документальном выпуске мы рассмотрим двенадцать крупнейших археологических открытий 2026 года, способных изменить наши представления о древних цивилизациях, первобытных людях и истории человечества.\n\nВы узнаете:\n\n• где обнаружили Александрию на Тигре — затерянный портовый город, основанный Александром Македонским;\n\n• почему в тайной камере возле Луксора находились двадцать два саркофага певиц Амона и восемь запечатанных папирусов;\n\n• каким был Доггерленд — затопленный мир, соединявший Британию с Европой;\n\n• почему неандертальцы могли исчезнуть не из-за одной катастрофы, а из-за изоляции отдельных групп;\n\n• что скрывала сапотекская гробница с огромной скульптурой совы;\n\n• зачем ацтеки поместили в Темпло-Майор более восьмидесяти древних фигурок и тысячи морских предметов;\n\n• что может рассказать скелет возрастом около восьми тысяч лет, найденный в затопленных пещерах Юкатана;\n\n• как деревянные орудия возрастом 430 000 лет изменили представления о способностях древних людей;\n\n• почему следы чумы среди сибирских охотников и собирателей стали неожиданностью для учёных;\n\n• когда люди впервые начали осваивать тропические леса Западной Африки;\n\n• почему почти целый кельтский карникс из Норфолка считается уникальной находкой;\n\n• какие тайны хранят 13 000 остраконов, обнаруженных в древнеегипетском Атрибисе.\n\nЗатерянные города, древние мумии, генетические исследования, подводные пещеры, редчайшие артефакты и письменные архивы обычных жителей Древнего Египта — каждое открытие открывает новую страницу человеческой истории.\n\nСмотрите документальный фильм до конца и напишите в комментариях, какая находка показалась вам самой значительной.\n\nПодписывайтесь на канал, чтобы не пропустить новые документальные фильмы об археологии, древних цивилизациях, загадках истории и крупнейших открытиях учёных.",
+    "duration": 5767,
+    "embed_url": "https://rutube.ru/play/embed/86306c0b62e902b308cb0a50d3327c3a",
+    "feed_name": "Документальные Фильмы",
+    "feed_url": "https://rutube.ru/video/person/45087022/",
+    "hits": 18376,
+    "html": "<iframe width=\"720\" height=\"405\" src=\"https://rutube.ru/play/embed/86306c0b62e902b308cb0a50d3327c3a\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowfullscreen allow=\"encrypted-media\"></iframe>",
+    "is_adult": false,
+    "is_audio": false,
+    "is_club": false,
+    "is_classic": true,
+    "is_deleted": false,
+    "is_hidden": false,
+    "is_licensed": false,
+    "is_livestream": false,
+    "is_locked": false,
+    "is_official": false,
+    "is_original_content": false,
+    "is_original_sticker_2x2": false,
+    "is_paid": false,
+    "is_reborn_channel": false,
+    "kind_sign_for_user": true,
+    "is_on_air": false,
+    "last_update_ts": "2026-08-08T17:17:07",
+    "origin_type": "rtb",
+    "picture_url": "",
+    "position": 0,
+    "preview_url": "https://preview.rutube.ru/preview/86306c0b62e902b308cb0a50d3327c3a.webp?exp=1791990742&s=JER6OsZvptEKI7_6trhnkQ",
+    "product_id": 0,
+    "publication_ts": "2026-08-08T17:17:07",
+    "stream_type": "",
+    "thumbnail_url": "https://pic.rtbcdn.ru/video/2026-08-03/25/4c/254c93e7e16bf9698c81cf41f1866aee.jpg",
+    "title": "12 АРХЕОЛОГИЧЕСКИХ ОТКРЫТИЙ 2026 ГОДА, КОТОРЫЕ ПЕРЕПИСЫВАЮТ ИСТОРИЮ | Документальный Фильм",
+    "track_id": 463142400,
+    "video_url": "https://rutube.ru/video/86306c0b62e902b308cb0a50d3327c3a/"
+   }
+  },
+  {
+   "video": {
+    "id": "1fe4dea93fa23d10d005c6ac3a002c39",
+    "action_reason": {
+     "id": 0,
+     "name": ""
+    },
+    "author": {
+     "avatar_url": "https://pic.rtbcdn.ru/user/2026-08-24/78/d0/78d0c098de4557d6d9c70892603e28b5.jpg",
+     "id": 46513717,
+     "name": "Глобализация",
+     "site_url": "https://rutube.ru/video/person/46513717/"
+    },
+    "category": {
+     "category_url": "https://rutube.ru/video/category/52/",
+     "for_kids": false,
+     "id": 52,
+     "name": "Наука",
+     "short_name": ""
+    },
+    "pg_rating": {
+     "age": 12,
+     "logo": "https://pic.rtbcdn.ru/agerestriction/99/0e/990e87f25d8689833de24c0eb7eaec81.png"
+    },
+    "age_range": {
+     "min": 0,
+     "max": 0
+    },
+    "created_ts": "2026-04-21T11:50:27",
+    "description": "С орбиты наши мегаполисы вечны, но материаловедение выносит приговор: без ремонта города рассыплются в пыль за геологические мгновения. Шокирующий парадокс: если до нас существовала высокоразвитая цивилизация, осталась ли хоть одна улика?\n\nМасштабное расследование через геологию, физику и астрономию:\n\n🌍 Земля-каннибал: Тектоника и эрозия уничтожают артефакты старше 4 млн лет.\n🔬 Невидимые следы: Ищем не пирамиды, а аномалии C-12 и ядерные изотопы.\n🔥 Палеоценовый пик: Техногенное потепление 56 млн лет назад?\n🌑 Лунный сейф: Спутник — идеальное хранилище древних космических программ.\n\nОт угольных пластов до точек Лагранжа: что оставит человечество? Пластиковая прослойка или победа над Великим Фильтром?\n\nПодписывайтесь! Комменты: что найдут геологи на месте вашего города через 50 млн лет?",
+    "duration": 6781,
+    "embed_url": "https://rutube.ru/play/embed/1fe4dea93fa23d10d005c6ac3a002c39",
+    "feed_name": "Глобализация",
+    "feed_url": "https://rutube.ru/video/person/46513717/",
+    "hits": 53959,
+    "html": "<iframe width=\"720\" height=\"405\" src=\"https://rutube.ru/play/embed/1fe4dea93fa23d10d005c6ac3a002c39\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowfullscreen allow=\"encrypted-media\"></iframe>",
+    "is_adult": false,
+    "is_audio": false,
+    "is_club": false,
+    "is_classic": true,
+    "is_deleted": false,
+    "is_hidden": false,
+    "is_licensed": false,
+    "is_livestream": false,
+    "is_locked": false,
+    "is_official": false,
+    "is_original_content": false,
+    "is_original_sticker_2x2": false,
+    "is_paid": false,
+    "is_reborn_channel": false,
+    "kind_sign_for_user": true,
+    "is_on_air": false,
+    "last_update_ts": "2026-06-03T22:30:06",
+    "origin_type": "rtb",
+    "picture_url": "",
+    "position": 0,
+    "preview_url": "https://preview.rutube.ru/preview/1fe4dea93fa23d10d005c6ac3a002c39.webp?exp=1791990927&s=LkMZEn0NnClOIvkbrmQybg",
+    "product_id": 0,
+    "publication_ts": "2026-06-03T22:30:06",
+    "stream_type": "",
+    "thumbnail_url": "https://pic.rtbcdn.ru/video/2026-04-21/9a/e6/9ae651acd85c27de71b93db2b9dd005a.jpg",
+    "title": "Учёные ВЫЯСНИЛИ, кто жил на Земле до нас | Документальный фильм",
+    "track_id": 452286490,
+    "video_url": "https://rutube.ru/video/1fe4dea93fa23d10d005c6ac3a002c39/"
+   }
+  },
+  {
+   "video": {
+    "id": "cdb1a526d08f3b8bc2ee2694c70ea58a",
+    "action_reason": {
+     "id": 0,
+     "name": ""
+    },
+    "author": {
+     "avatar_url": "https://pic.rtbcdn.ru/user/2026-03-06/06/b0/06b0eff35894c7570e1a267745441fe2.jpg",
+     "id": 76346350,
+     "name": "Россия глазами иностранцев",
+     "site_url": "https://rutube.ru/video/person/76346350/"
+    },
+    "category": {
+     "category_url": "https://rutube.ru/video/category/57/",
+     "for_kids": false,
+     "id": 57,
+     "name": "Развлечения",
+     "short_name": ""
+    },
+    "pg_rating": {
+     "age": 12,
+     "logo": "https://pic.rtbcdn.ru/agerestriction/99/0e/990e87f25d8689833de24c0eb7eaec81.png"
+    },
+    "age_range": {
+     "min": 0,
+     "max": 0
+    },
+    "created_ts": "2026-09-21T20:02:53",
+    "description": "Опытный урбанист из Монреаля ехал на Урал, готовый к выживанию в суровом климате. Вместо этого его потрясли раскаленные батареи отопления, мгновенные бесплатные банковские переводы по номеру телефона и дешёвый скоростной 4G даже на глубоких станциях метро. Подземные дворцы метрополитена, безопасные ночные улицы и вызов врача на дом без астрономических счетов окончательно сломали его представления о превосходстве Запада.",
+    "duration": 980,
+    "embed_url": "https://rutube.ru/play/embed/cdb1a526d08f3b8bc2ee2694c70ea58a",
+    "feed_name": "Россия глазами иностранцев",
+    "feed_url": "https://rutube.ru/video/person/76346350/",
+    "hits": 861,
+    "html": "<iframe width=\"720\" height=\"405\" src=\"https://rutube.ru/play/embed/cdb1a526d08f3b8bc2ee2694c70ea58a\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowfullscreen allow=\"encrypted-media\"></iframe>",
+    "is_adult": false,
+    "is_audio": false,
+    "is_club": false,
+    "is_classic": true,
+    "is_deleted": false,
+    "is_hidden": false,
+    "is_licensed": false,
+    "is_livestream": false,
+    "is_locked": false,
+    "is_official": false,
+    "is_original_content": false,
+    "is_original_sticker_2x2": false,
+    "is_paid": false,
+    "is_reborn_channel": false,
+    "kind_sign_for_user": false,
+    "is_on_air": false,
+    "last_update_ts": "2026-09-22T15:20:09",
+    "origin_type": "rtb",
+    "picture_url": "",
+    "position": 0,
+    "preview_url": "https://preview.rutube.ru/preview/cdb1a526d08f3b8bc2ee2694c70ea58a.webp?exp=1791990283&s=QqTUb6zwWO2FDLIs6D6j2w",
+    "product_id": 0,
+    "publication_ts": "2026-09-22T15:20:09",
+    "stream_type": "",
+    "thumbnail_url": "https://pic.rtbcdn.ru/video/2026-09-21/1d/58/1d58912ca1f54dee4f963d7b15a45689.jpg",
+    "title": "Канадец сравнил свой родной город с Екатеринбургом: рассказал всю правду.",
+    "track_id": 469540253,
+    "video_url": "https://rutube.ru/video/cdb1a526d08f3b8bc2ee2694c70ea58a/"
+   }
+  },
+  {
+   "video": {
+    "id": "d24ed7466f783f1b595941861414c583",
+    "action_reason": {
+     "id": 0,
+     "name": ""
+    },
+    "author": {
+     "avatar_url": "https://pic.rtbcdn.ru/user/2026-07-20/c1/e7/c1e7d17b3533d4fe9b0d7af96c8fd03e.jpg",
+     "id": 45087022,
+     "name": "Документальные Фильмы",
+     "site_url": "https://rutube.ru/video/person/45087022/"
+    },
+    "category": {
+     "category_url": "https://rutube.ru/video/category/57/",
+     "for_kids": false,
+     "id": 57,
+     "name": "Развлечения",
+     "short_name": ""
+    },
+    "pg_rating": {
+     "age": 12,
+     "logo": "https://pic.rtbcdn.ru/agerestriction/99/0e/990e87f25d8689833de24c0eb7eaec81.png"
+    },
+    "age_range": {
+     "min": 0,
+     "max": 0
+    },
+    "created_ts": "2026-05-09T10:57:59",
+    "description": "MAX - https://max.ru/join/zkmMJf_u9kPN2C5FpjbtWqqBbAeqh_b6q0Hb2mQnRGE\nVK - https://vk.ru/dokumentalfilms\n\nСуществует ли жизнь за пределами Земли? 🌌\nВо Вселенной могут существовать миллиарды планет, похожих на нашу, но человечество до сих пор не получило доказательств существования внеземных цивилизаций. Именно этот вопрос лежит в основе знаменитого парадокса Ферми.\nВ этом фильме: — загадка парадокса Ферми — поиски экзопланет и пригодных для жизни миров — теории о внеземных цивилизациях — НЛО и необъяснимые космические явления — и вопрос, который человечество задаёт себе десятилетиями: одни ли мы во Вселенной?\nЧто скрывает космос — бесконечную пустоту или следы чужой жизни?\n🌍 Документальные фильмы о космосе, древних цивилизациях, загадках истории и необъяснимых явлениях — каждый день в 17:17 по МСК.",
+    "duration": 11640,
+    "embed_url": "https://rutube.ru/play/embed/d24ed7466f783f1b595941861414c583",
+    "feed_name": "Документальные Фильмы",
+    "feed_url": "https://rutube.ru/video/person/45087022/",
+    "hits": 10951,
+    "html": "<iframe width=\"720\" height=\"405\" src=\"https://rutube.ru/play/embed/d24ed7466f783f1b595941861414c583\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowfullscreen allow=\"encrypted-media\"></iframe>",
+    "is_adult": false,
+    "is_audio": false,
+    "is_club": false,
+    "is_classic": true,
+    "is_deleted": false,
+    "is_hidden": false,
+    "is_licensed": false,
+    "is_livestream": false,
+    "is_locked": false,
+    "is_official": false,
+    "is_original_content": false,
+    "is_original_sticker_2x2": false,
+    "is_paid": false,
+    "is_reborn_channel": false,
+    "kind_sign_for_user": true,
+    "is_on_air": false,
+    "last_update_ts": "2026-06-25T11:13:06",
+    "origin_type": "rtb",
+    "picture_url": "",
+    "position": 0,
+    "preview_url": "https://preview.rutube.ru/preview/d24ed7466f783f1b595941861414c583.webp?exp=1791990422&s=AnEzIvZLMDRFfWhgyyQhww",
+    "product_id": 0,
+    "publication_ts": "2026-06-25T11:13:06",
+    "stream_type": "",
+    "thumbnail_url": "https://pic.rtbcdn.ru/video/2026-05-27/15/00/15003f29121bf70598e4b3773161cee0.jpg",
+    "title": "ЧУЖАЯ ЖИЗНЬ | НЛО, экзопланеты, парадокс Ферми | Документальный Фильм",
+    "track_id": 453743488,
+    "video_url": "https://rutube.ru/video/d24ed7466f783f1b595941861414c583/"
+   }
+  },
+  {
+   "video": {
+    "id": "affd7d33b3dd78b82b444c47f547fd1a",
+    "action_reason": {
+     "id": 0,
+     "name": ""
+    },
+    "author": {
+     "avatar_url": "https://pic.rtbcdn.ru/user/2026-07-20/c1/e7/c1e7d17b3533d4fe9b0d7af96c8fd03e.jpg",
+     "id": 45087022,
+     "name": "Документальные Фильмы",
+     "site_url": "https://rutube.ru/video/person/45087022/"
+    },
+    "category": {
+     "category_url": "https://rutube.ru/video/category/57/",
+     "for_kids": false,
+     "id": 57,
+     "name": "Развлечения",
+     "short_name": ""
+    },
+    "pg_rating": {
+     "age": 12,
+     "logo": "https://pic.rtbcdn.ru/agerestriction/99/0e/990e87f25d8689833de24c0eb7eaec81.png"
+    },
+    "age_range": {
+     "min": 0,
+     "max": 0
+    },
+    "created_ts": "2026-05-08T09:43:34",
+    "description": "MAX - https://max.ru/join/zkmMJf_u9kPN2C5FpjbtWqqBbAeqh_b6q0Hb2mQnRGE\nVK - https://vk.ru/dokumentalfilms\n\nКнига Еноха — один из самых загадочных древних текстов в истории человечества. 📜\nСогласно древним преданиям, на Землю спустились Стражи — существа, которые передали людям запретные знания.\nИменно после этого, как говорится в легендах, появились великаны и начались события, изменившие древний мир навсегда.\nВ этом фильме:\n— тайна Стражей и падших ангелов\n— происхождение великанов и нефилимов\n— запретные знания древности\n— исчезнувшие тексты и легенды\n— и почему Книга Еноха вызывает споры до сих пор\nМиф, религия или забытая история человечества?",
+    "duration": 4428,
+    "embed_url": "https://rutube.ru/play/embed/affd7d33b3dd78b82b444c47f547fd1a",
+    "feed_name": "Документальные Фильмы",
+    "feed_url": "https://rutube.ru/video/person/45087022/",
+    "hits": 36599,
+    "html": "<iframe width=\"720\" height=\"405\" src=\"https://rutube.ru/play/embed/affd7d33b3dd78b82b444c47f547fd1a\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowfullscreen allow=\"encrypted-media\"></iframe>",
+    "is_adult": false,
+    "is_audio": false,
+    "is_club": false,
+    "is_classic": true,
+    "is_deleted": false,
+    "is_hidden": false,
+    "is_licensed": false,
+    "is_livestream": false,
+    "is_locked": false,
+    "is_official": false,
+    "is_original_content": false,
+    "is_original_sticker_2x2": false,
+    "is_paid": false,
+    "is_reborn_channel": false,
+    "kind_sign_for_user": true,
+    "is_on_air": false,
+    "last_update_ts": "2026-06-12T17:17:06",
+    "origin_type": "rtb",
+    "picture_url": "",
+    "position": 0,
+    "preview_url": "https://preview.rutube.ru/preview/affd7d33b3dd78b82b444c47f547fd1a.webp?exp=1791990813&s=T0XAS1OucQ4bM46EzqpNAQ",
+    "product_id": 0,
+    "publication_ts": "2026-06-12T17:17:06",
+    "stream_type": "",
+    "thumbnail_url": "https://pic.rtbcdn.ru/video/2026-05-24/d8/c1/d8c126eaa26fbdfc9755f95a0ed41139.jpg",
+    "title": "ЕНОХ: тайна Стражей и расы великанов | Документальный Фильм",
+    "track_id": 453657045,
+    "video_url": "https://rutube.ru/video/affd7d33b3dd78b82b444c47f547fd1a/"
+   }
+  },
+  {
+   "video": {
+    "id": "e6c6ca0d3ec669a1d21dccf5404fcb17",
+    "action_reason": {
+     "id": 0,
+     "name": ""
+    },
+    "author": {
+     "avatar_url": "https://pic.rtbcdn.ru/user/2026-07-20/c1/e7/c1e7d17b3533d4fe9b0d7af96c8fd03e.jpg",
+     "id": 45087022,
+     "name": "Документальные Фильмы",
+     "site_url": "https://rutube.ru/video/person/45087022/"
+    },
+    "category": {
+     "category_url": "https://rutube.ru/video/category/57/",
+     "for_kids": false,
+     "id": 57,
+     "name": "Развлечения",
+     "short_name": ""
+    },
+    "pg_rating": {
+     "age": 12,
+     "logo": "https://pic.rtbcdn.ru/agerestriction/99/0e/990e87f25d8689833de24c0eb7eaec81.png"
+    },
+    "age_range": {
+     "min": 0,
+     "max": 0
+    },
+    "created_ts": "2026-05-09T09:22:01",
+    "description": "MAX - https://max.ru/join/zkmMJf_u9kPN2C5FpjbtWqqBbAeqh_b6q0Hb2mQnRGE\nVK - https://vk.ru/dokumentalfilms\n\nМогли ли люди древности сталкиваться с явлениями, которые сегодня называют НЛО? 👁️\nНекоторые исследователи считают, что в древних текстах и библейских историях могут скрываться описания загадочных объектов и существ, происхождение которых до сих пор невозможно объяснить.\nВ этом фильме:\n— загадочные упоминания НЛО в Библии\n— древние свидетельства необычных явлений\n— тайны пророчеств и видений\n— версии исследователей и историков\n— и теории о возможных контактах с внеземными цивилизациями\nЧто скрывают древнейшие тексты человечества — символизм, мифы или реальные события прошлого?\n🌍 Документальные фильмы о древних цивилизациях, космосе, загадках истории и необъяснимых явлениях — каждый день в 17:17 по МСК.",
+    "duration": 6029,
+    "embed_url": "https://rutube.ru/play/embed/e6c6ca0d3ec669a1d21dccf5404fcb17",
+    "feed_name": "Документальные Фильмы",
+    "feed_url": "https://rutube.ru/video/person/45087022/",
+    "hits": 14099,
+    "html": "<iframe width=\"720\" height=\"405\" src=\"https://rutube.ru/play/embed/e6c6ca0d3ec669a1d21dccf5404fcb17\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowfullscreen allow=\"encrypted-media\"></iframe>",
+    "is_adult": false,
+    "is_audio": false,
+    "is_club": false,
+    "is_classic": true,
+    "is_deleted": false,
+    "is_hidden": false,
+    "is_licensed": false,
+    "is_livestream": false,
+    "is_locked": false,
+    "is_official": false,
+    "is_original_content": false,
+    "is_original_sticker_2x2": false,
+    "is_paid": false,
+    "is_reborn_channel": false,
+    "kind_sign_for_user": true,
+    "is_on_air": false,
+    "last_update_ts": "2026-06-22T17:17:06",
+    "origin_type": "rtb",
+    "picture_url": "",
+    "position": 0,
+    "preview_url": "https://preview.rutube.ru/preview/e6c6ca0d3ec669a1d21dccf5404fcb17.webp?exp=1791990573&s=LiVwWge_YpMo1iXc3IJSag",
+    "product_id": 0,
+    "publication_ts": "2026-06-22T17:17:06",
+    "stream_type": "",
+    "thumbnail_url": "https://pic.rtbcdn.ru/video/2026-05-27/1e/bd/1ebdb061f753e976203f02f6f401407b.jpg",
+    "title": "НЛО В БИБЛИИ: древние тексты, которые невозможно объяснить | Документальный Фильм",
+    "track_id": 453737916,
+    "video_url": "https://rutube.ru/video/e6c6ca0d3ec669a1d21dccf5404fcb17/"
+   }
+  },
+  {
+   "video": {
+    "id": "5aaae05635845afb45bca5bd16ff1d10",
+    "action_reason": {
+     "id": 0,
+     "name": ""
+    },
+    "author": {
+     "avatar_url": "https://pic.rtbcdn.ru/user/2026-07-20/c1/e7/c1e7d17b3533d4fe9b0d7af96c8fd03e.jpg",
+     "id": 45087022,
+     "name": "Документальные Фильмы",
+     "site_url": "https://rutube.ru/video/person/45087022/"
+    },
+    "category": {
+     "category_url": "https://rutube.ru/video/category/57/",
+     "for_kids": false,
+     "id": 57,
+     "name": "Развлечения",
+     "short_name": ""
+    },
+    "pg_rating": {
+     "age": 12,
+     "logo": "https://pic.rtbcdn.ru/agerestriction/99/0e/990e87f25d8689833de24c0eb7eaec81.png"
+    },
+    "age_range": {
+     "min": 0,
+     "max": 0
+    },
+    "created_ts": "2026-05-08T17:59:47",
+    "description": "MAX - https://max.ru/join/zkmMJf_u9kPN2C5FpjbtWqqBbAeqh_b6q0Hb2mQnRGE\nVK - https://vk.ru/dokumentalfilms\n\nМеста во Вселенной, которые кажутся нереальными 🌌\nВо Вселенной существуют объекты и явления, которые выглядят так, будто они нарушают законы реальности.\nГигантские туманности, планеты из огня и льда, чёрные дыры и космические структуры невероятных масштабов.\nВ этом фильме:\n— самые необычные места во Вселенной\n— загадочные космические объекты\n— планеты с экстремальными условиями\n— аномалии, которые удивляют учёных\n— и тайны космоса, которые до сих пор невозможно объяснить\nНасколько странной и огромной может быть Вселенная на самом деле?\n🌍 Документальные фильмы о космосе, древних цивилизациях, загадках истории и необъяснимых явлениях — каждый день в 17:17 по МСК.",
+    "duration": 7098,
+    "embed_url": "https://rutube.ru/play/embed/5aaae05635845afb45bca5bd16ff1d10",
+    "feed_name": "Документальные Фильмы",
+    "feed_url": "https://rutube.ru/video/person/45087022/",
+    "hits": 34789,
+    "html": "<iframe width=\"720\" height=\"405\" src=\"https://rutube.ru/play/embed/5aaae05635845afb45bca5bd16ff1d10\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowfullscreen allow=\"encrypted-media\"></iframe>",
+    "is_adult": false,
+    "is_audio": false,
+    "is_club": false,
+    "is_classic": true,
+    "is_deleted": false,
+    "is_hidden": false,
+    "is_licensed": false,
+    "is_livestream": false,
+    "is_locked": false,
+    "is_official": false,
+    "is_original_content": false,
+    "is_original_sticker_2x2": false,
+    "is_paid": false,
+    "is_reborn_channel": false,
+    "kind_sign_for_user": true,
+    "is_on_air": false,
+    "last_update_ts": "2026-06-20T17:17:06",
+    "origin_type": "rtb",
+    "picture_url": "",
+    "position": 0,
+    "preview_url": "https://preview.rutube.ru/preview/5aaae05635845afb45bca5bd16ff1d10.webp?exp=1791990422&s=DG0E8ZZfpvX_GY_XmFWfVA",
+    "product_id": 0,
+    "publication_ts": "2026-06-20T17:17:06",
+    "stream_type": "",
+    "thumbnail_url": "https://pic.rtbcdn.ru/video/2026-05-26/8a/a1/8aa17be604a3554cc951c2b51d24ad0a.jpg",
+    "title": "Самые поразительные инциденты с инопланетянами и НЛО | Документальный Фильм",
+    "track_id": 453695334,
+    "video_url": "https://rutube.ru/video/5aaae05635845afb45bca5bd16ff1d10/"
+   }
+  },
+  {
+   "video": {
+    "id": "57899f09cfe188faf68cc2e9ede60e84",
+    "action_reason": {
+     "id": 0,
+     "name": ""
+    },
+    "author": {
+     "avatar_url": "https://pic.rtbcdn.ru/user/55/d4/55d4e9e9824ea3f014a5251b67744f54.jpg",
+     "id": 42716566,
+     "name": "Infinite Balance Witness",
+     "site_url": "https://rutube.ru/video/person/42716566/"
+    },
+    "category": {
+     "category_url": "https://rutube.ru/video/category/57/",
+     "for_kids": false,
+     "id": 57,
+     "name": "Развлечения",
+     "short_name": ""
+    },
+    "pg_rating": {
+     "age": 12,
+     "logo": "https://pic.rtbcdn.ru/agerestriction/99/0e/990e87f25d8689833de24c0eb7eaec81.png"
+    },
+    "age_range": {
+     "min": 0,
+     "max": 0
+    },
+    "created_ts": "2026-01-14T12:10:07",
+    "description": "Забытые страницы истории хранят свидетельства невероятного. Что, если наши предки обладали знаниями, превосходящими современные? Технологии обработки камня, точность астрономических обсерваторий, загадочные механизмы, найденные среди древних руин — всё это намекает на существование забытых цивилизаций-титанов. Они оставили следы в виде мегалитов, не поддающихся логике своего времени, и артефактов, чье назначение до сих пор озадачивает ученых. Это не магия. Это наследие высокоразвитых культур, чьи секреты были утеряны в пламени катастроф и песках времени. Мы лишь начинаем расшифровывать их послания, застывшие в камне и металле.\n#ДревниеТехнологии #ЗапрещеннаяАрхеология #УтерянныеЗнания #ДопотопныеЦивилизации #АльтернативнаяИстория #Мегалиты #НеобъяснимыеАртефакты #ТехнологииБогов #ДревниеМеханизмы #ТайныПрошлого #АртефактыВнеВремени #ИсторияНеизвестная #ЦивилизацииТитаны #ДоисторическиеТехнологии #НаследиеПредков #ЗагадкиИстории #ЗабытыеИзобретения #КаменнаяЗагадка #НевероятныеПредки #Аннунаки #Атлантида #Лемурия #ДревниеАстронавты #Палеоконтакт #ТайныПирамид #БагдадскаяБатарейка #АнтикитерскийМеханизм #КолесаДжайпура #ПлитаХунабу #НанМадол",
+    "duration": 6265,
+    "embed_url": "https://rutube.ru/play/embed/57899f09cfe188faf68cc2e9ede60e84",
+    "feed_name": "Infinite Balance Witness",
+    "feed_url": "https://rutube.ru/video/person/42716566/",
+    "hits": 34524,
+    "html": "<iframe width=\"720\" height=\"405\" src=\"https://rutube.ru/play/embed/57899f09cfe188faf68cc2e9ede60e84\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowfullscreen allow=\"encrypted-media\"></iframe>",
+    "is_adult": false,
+    "is_audio": false,
+    "is_club": false,
+    "is_classic": true,
+    "is_deleted": false,
+    "is_hidden": false,
+    "is_licensed": false,
+    "is_livestream": false,
+    "is_locked": false,
+    "is_official": false,
+    "is_original_content": false,
+    "is_original_sticker_2x2": false,
+    "is_paid": false,
+    "is_reborn_channel": false,
+    "kind_sign_for_user": false,
+    "is_on_air": false,
+    "last_update_ts": "2026-07-21T13:52:02",
+    "origin_type": "rtb",
+    "picture_url": "",
+    "position": 0,
+    "preview_url": "https://preview.rutube.ru/preview/57899f09cfe188faf68cc2e9ede60e84.webp?exp=1791990903&s=Vw9t6J-cxgVpFLoWwamMUg",
+    "product_id": 0,
+    "publication_ts": "2026-01-14T12:38:28",
+    "stream_type": "",
+    "thumbnail_url": "https://pic.rtbcdn.ru/video/2026-07-21/95/38/9538c4b6d30360017b34f147979406c5.jpg",
+    "title": "ДРЕВНИЕ ТЕХНОЛОГИИ: Цивилизации, опередившие своё время",
+    "track_id": 443676930,
+    "video_url": "https://rutube.ru/video/57899f09cfe188faf68cc2e9ede60e84/"
+   }
+  },
+  {
+   "video": {
+    "id": "b599faa12c47ab5efe868c852e550046",
+    "action_reason": {
+     "id": 0,
+     "name": ""
+    },
+    "author": {
+     "avatar_url": "https://pic.rtbcdn.ru/user/2026-07-20/c1/e7/c1e7d17b3533d4fe9b0d7af96c8fd03e.jpg",
+     "id": 45087022,
+     "name": "Документальные Фильмы",
+     "site_url": "https://rutube.ru/video/person/45087022/"
+    },
+    "category": {
+     "category_url": "https://rutube.ru/video/category/57/",
+     "for_kids": false,
+     "id": 57,
+     "name": "Развлечения",
+     "short_name": ""
+    },
+    "pg_rating": {
+     "age": 12,
+     "logo": "https://pic.rtbcdn.ru/agerestriction/99/0e/990e87f25d8689833de24c0eb7eaec81.png"
+    },
+    "age_range": {
+     "min": 0,
+     "max": 0
+    },
+    "created_ts": "2026-05-08T10:44:58",
+    "description": "MAX - https://max.ru/join/zkmMJf_u9kPN2C5FpjbtWqqBbAeqh_b6q0Hb2mQnRGE\nVK - https://vk.ru/dokumentalfilms\n\nКто на самом деле стоял у истоков человеческой цивилизации?\nЭтот документальный фильм исследует одну из самых загадочных теорий в истории — могли ли древние «боги», описанные в мифах и священных текстах, быть существами внеземного происхождения?\nДревние шумеры, египтяне, майя и другие цивилизации оставили после себя странные изображения, необъяснимые знания о космосе и легенды о пришельцах, спустившихся с небес. Совпадение или следы давно забытого контакта?\nВ фильме:\n• древние тексты и легенды о богах с неба\n• загадочные артефакты и технологии прошлого\n• теории о происхождении человечества\n• тайны Ануннаков и древних цивилизаций\n• связь мифологии, космоса и неизвестных знаний\nЧто, если история человечества скрывает гораздо больше, чем нам рассказывали?",
+    "duration": 5325,
+    "embed_url": "https://rutube.ru/play/embed/b599faa12c47ab5efe868c852e550046",
+    "feed_name": "Документальные Фильмы",
+    "feed_url": "https://rutube.ru/video/person/45087022/",
+    "hits": 38245,
+    "html": "<iframe width=\"720\" height=\"405\" src=\"https://rutube.ru/play/embed/b599faa12c47ab5efe868c852e550046\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowfullscreen allow=\"encrypted-media\"></iframe>",
+    "is_adult": false,
+    "is_audio": false,
+    "is_club": false,
+    "is_classic": true,
+    "is_deleted": false,
+    "is_hidden": false,
+    "is_licensed": false,
+    "is_livestream": false,
+    "is_locked": false,
+    "is_official": false,
+    "is_original_content": false,
+    "is_original_sticker_2x2": false,
+    "is_paid": false,
+    "is_reborn_channel": false,
+    "kind_sign_for_user": true,
+    "is_on_air": false,
+    "last_update_ts": "2026-06-14T17:17:06",
+    "origin_type": "rtb",
+    "picture_url": "",
+    "position": 0,
+    "preview_url": "https://preview.rutube.ru/preview/b599faa12c47ab5efe868c852e550046.webp?exp=1791990872&s=HCm4H9oClkPygBZr1AfBHg",
+    "product_id": 0,
+    "publication_ts": "2026-06-14T17:17:06",
+    "stream_type": "",
+    "thumbnail_url": "https://pic.rtbcdn.ru/video/2026-05-25/6f/57/6f57eb524383e127179c70dabf7f5b07.jpg",
+    "title": "БОГИ ИЗ ЗВЁЗД: Инопланетяне, которые сформировали человечество | Документальный Фильм",
+    "track_id": 453661027,
+    "video_url": "https://rutube.ru/video/b599faa12c47ab5efe868c852e550046/"
+   }
+  },
+  {
+   "video": {
+    "id": "7c954b840a5457e4ec251a0e044a505b",
+    "action_reason": {
+     "id": 0,
+     "name": ""
+    },
+    "author": {
+     "avatar_url": "https://pic.rtbcdn.ru/user/2026-07-20/c1/e7/c1e7d17b3533d4fe9b0d7af96c8fd03e.jpg",
+     "id": 45087022,
+     "name": "Документальные Фильмы",
+     "site_url": "https://rutube.ru/video/person/45087022/"
+    },
+    "category": {
+     "category_url": "https://rutube.ru/video/category/52/",
+     "for_kids": false,
+     "id": 52,
+     "name": "Наука",
+     "short_name": ""
+    },
+    "pg_rating": {
+     "age": 12,
+     "logo": "https://pic.rtbcdn.ru/agerestriction/99/0e/990e87f25d8689833de24c0eb7eaec81.png"
+    },
+    "age_range": {
+     "min": 0,
+     "max": 0
+    },
+    "created_ts": "2026-05-09T09:59:23",
+    "description": "MAX - https://max.ru/join/zkmMJf_u9kPN2C5FpjbtWqqBbAeqh_b6q0Hb2mQnRGE\nVK - https://vk.ru/dokumentalfilms\n\nКем были Ануннаки — богами древнего мира, мифом или существами, пришедшими с других звёзд? 🌌\nСогласно древним шумерским текстам, загадочные существа могли повлиять на развитие первых цивилизаций и изменить ход истории человечества.\nВ этом фильме:\n— происхождение Ануннаков\n— древние боги и шумерские легенды\n— теории о древних пришельцах\n— тайны первых цивилизаций\n— и загадки, которые продолжают вызывать споры по всему миру\nЧто скрывают древнейшие тексты человечества — мифологию или забытые страницы истории?\n🌍 Документальные фильмы о древних цивилизациях, космосе, загадках истории и необъяснимых явлениях — каждый день в 17:17 по МСК.",
+    "duration": 7480,
+    "embed_url": "https://rutube.ru/play/embed/7c954b840a5457e4ec251a0e044a505b",
+    "feed_name": "Документальные Фильмы",
+    "feed_url": "https://rutube.ru/video/person/45087022/",
+    "hits": 3234,
+    "html": "<iframe width=\"720\" height=\"405\" src=\"https://rutube.ru/play/embed/7c954b840a5457e4ec251a0e044a505b\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowfullscreen allow=\"encrypted-media\"></iframe>",
+    "is_adult": false,
+    "is_audio": false,
+    "is_club": false,
+    "is_classic": true,
+    "is_deleted": false,
+    "is_hidden": false,
+    "is_licensed": false,
+    "is_livestream": false,
+    "is_locked": false,
+    "is_official": false,
+    "is_original_content": false,
+    "is_original_sticker_2x2": false,
+    "is_paid": false,
+    "is_reborn_channel": false,
+    "kind_sign_for_user": true,
+    "is_on_air": false,
+    "last_update_ts": "2026-06-23T17:17:07",
+    "origin_type": "rtb",
+    "picture_url": "",
+    "position": 0,
+    "preview_url": "https://preview.rutube.ru/preview/7c954b840a5457e4ec251a0e044a505b.webp?exp=1791990503&s=nWrxmttftLkQrTlgz8a6dg",
+    "product_id": 0,
+    "publication_ts": "2026-06-23T17:17:07",
+    "stream_type": "",
+    "thumbnail_url": "https://pic.rtbcdn.ru/video/2026-05-27/30/e6/30e6e17b9bf2fa962ae7ac6f589ee72a.jpg",
+    "title": "СОЗДАТЕЛИ: Ануннаки и тайна происхождения человечества | Документальный Фильм",
+    "track_id": 453740010,
+    "video_url": "https://rutube.ru/video/7c954b840a5457e4ec251a0e044a505b/"
+   }
+  },
+  {
+   "video": {
+    "id": "c1977f72393dc45f93d9d429109813f5",
+    "action_reason": {
+     "id": 0,
+     "name": ""
+    },
+    "author": {
+     "avatar_url": "https://pic.rtbcdn.ru/user/2026-07-20/c1/e7/c1e7d17b3533d4fe9b0d7af96c8fd03e.jpg",
+     "id": 45087022,
+     "name": "Документальные Фильмы",
+     "site_url": "https://rutube.ru/video/person/45087022/"
+    },
+    "category": {
+     "category_url": "https://rutube.ru/video/category/57/",
+     "for_kids": false,
+     "id": 57,
+     "name": "Развлечения",
+     "short_name": ""
+    },
+    "pg_rating": {
+     "age": 12,
+     "logo": "https://pic.rtbcdn.ru/agerestriction/99/0e/990e87f25d8689833de24c0eb7eaec81.png"
+    },
+    "age_range": {
+     "min": 0,
+     "max": 0
+    },
+    "created_ts": "2026-05-07T21:36:25",
+    "description": "MAX - https://max.ru/join/zkmMJf_u9kPN2C5FpjbtWqqBbAeqh_b6q0Hb2mQnRGE\nVK - https://vk.ru/dokumentalfilms\n\nДокументальный фильм, который объясняет эволюцию от ранних гомининов, 4 миллиона лет назад, до нашего вида.",
+    "duration": 3842,
+    "embed_url": "https://rutube.ru/play/embed/c1977f72393dc45f93d9d429109813f5",
+    "feed_name": "Документальные Фильмы",
+    "feed_url": "https://rutube.ru/video/person/45087022/",
+    "hits": 13202,
+    "html": "<iframe width=\"720\" height=\"405\" src=\"https://rutube.ru/play/embed/c1977f72393dc45f93d9d429109813f5\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowfullscreen allow=\"encrypted-media\"></iframe>",
+    "is_adult": false,
+    "is_audio": false,
+    "is_club": false,
+    "is_classic": true,
+    "is_deleted": false,
+    "is_hidden": false,
+    "is_licensed": false,
+    "is_livestream": false,
+    "is_locked": false,
+    "is_official": false,
+    "is_original_content": false,
+    "is_original_sticker_2x2": false,
+    "is_paid": false,
+    "is_reborn_channel": false,
+    "kind_sign_for_user": true,
+    "is_on_air": false,
+    "last_update_ts": "2026-06-08T17:17:08",
+    "origin_type": "rtb",
+    "picture_url": "",
+    "position": 0,
+    "preview_url": "https://preview.rutube.ru/preview/c1977f72393dc45f93d9d429109813f5.webp?exp=1791990804&s=QXzxgYpFf3jC8aiGWr7b4Q",
+    "product_id": 0,
+    "publication_ts": "2026-06-08T17:17:08",
+    "stream_type": "",
+    "thumbnail_url": "https://pic.rtbcdn.ru/video/2026-05-23/44/cf/44cfd4c72a5971f6b19255980d30255b.jpg",
+    "title": "Происхождение человечества: Путешествие к первой цивилизации | Документальный Фильм",
+    "track_id": 453634460,
+    "video_url": "https://rutube.ru/video/c1977f72393dc45f93d9d429109813f5/"
+   }
+  },
+  {
+   "video": {
+    "id": "f5941b77fb3c0424e010b56b7e20c787",
+    "action_reason": {
+     "id": 0,
+     "name": ""
+    },
+    "author": {
+     "avatar_url": "https://pic.rtbcdn.ru/user/2026-07-20/c1/e7/c1e7d17b3533d4fe9b0d7af96c8fd03e.jpg",
+     "id": 45087022,
+     "name": "Документальные Фильмы",
+     "site_url": "https://rutube.ru/video/person/45087022/"
+    },
+    "category": {
+     "category_url": "https://rutube.ru/video/category/57/",
+     "for_kids": false,
+     "id": 57,
+     "name": "Развлечения",
+     "short_name": ""
+    },
+    "pg_rating": {
+     "age": 12,
+     "logo": "https://pic.rtbcdn.ru/agerestriction/99/0e/990e87f25d8689833de24c0eb7eaec81.png"
+    },
+    "age_range": {
+     "min": 0,
+     "max": 0
+    },
+    "created_ts": "2026-05-08T08:46:09",
+    "description": "MAX - https://max.ru/join/zkmMJf_u9kPN2C5FpjbtWqqBbAeqh_b6q0Hb2mQnRGE\nVK - https://vk.ru/dokumentalfilms\n\nПотерянные цивилизации | Невозможные структуры и коллапсы 🏛️\nКак исчезали величайшие цивилизации древнего мира? Огромные города, невероятные сооружения и технологии, которые до сих пор вызывают вопросы у учёных.\nЭтот фильм покажет: — загадочные структуры, происхождение которых сложно объяснить — древние цивилизации, исчезнувшие без следа — причины крупнейших коллапсов в истории человечества — и тайны, которые человечество пытается разгадать до сих пор\nПочему великие империи рушились — и может ли история повториться снова?\n🌍 Документальные фильмы о древнем мире, цивилизациях, космосе и загадках истории — каждый день в 17:17 по МСК.",
+    "duration": 7960,
+    "embed_url": "https://rutube.ru/play/embed/f5941b77fb3c0424e010b56b7e20c787",
+    "feed_name": "Документальные Фильмы",
+    "feed_url": "https://rutube.ru/video/person/45087022/",
+    "hits": 15383,
+    "html": "<iframe width=\"720\" height=\"405\" src=\"https://rutube.ru/play/embed/f5941b77fb3c0424e010b56b7e20c787\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowfullscreen allow=\"encrypted-media\"></iframe>",
+    "is_adult": false,
+    "is_audio": false,
+    "is_club": false,
+    "is_classic": true,
+    "is_deleted": false,
+    "is_hidden": false,
+    "is_licensed": false,
+    "is_livestream": false,
+    "is_locked": false,
+    "is_official": false,
+    "is_original_content": false,
+    "is_original_sticker_2x2": false,
+    "is_paid": false,
+    "is_reborn_channel": false,
+    "kind_sign_for_user": true,
+    "is_on_air": false,
+    "last_update_ts": "2026-06-10T17:17:06",
+    "origin_type": "rtb",
+    "picture_url": "",
+    "position": 0,
+    "preview_url": "https://preview.rutube.ru/preview/f5941b77fb3c0424e010b56b7e20c787.webp?exp=1791990362&s=vrPNFib5sjs8NkU92ISclg",
+    "product_id": 0,
+    "publication_ts": "2026-06-10T17:17:06",
+    "stream_type": "",
+    "thumbnail_url": "https://pic.rtbcdn.ru/video/2026-05-24/a5/fe/a5fee384eaec2ccb6f09c5147c26f5f3.jpg",
+    "title": "Потерянные цивилизации | Невозможные структуры и коллапсы | Документальный Фильм",
+    "track_id": 453653782,
+    "video_url": "https://rutube.ru/video/f5941b77fb3c0424e010b56b7e20c787/"
+   }
+  },
+  {
+   "video": {
+    "id": "a7719bd9f0dda395a60e9dbe747956ed",
+    "action_reason": {
+     "id": 0,
+     "name": ""
+    },
+    "author": {
+     "avatar_url": "https://pic.rtbcdn.ru/user/2026-07-20/c1/e7/c1e7d17b3533d4fe9b0d7af96c8fd03e.jpg",
+     "id": 45087022,
+     "name": "Документальные Фильмы",
+     "site_url": "https://rutube.ru/video/person/45087022/"
+    },
+    "category": {
+     "category_url": "https://rutube.ru/video/category/57/",
+     "for_kids": false,
+     "id": 57,
+     "name": "Развлечения",
+     "short_name": ""
+    },
+    "pg_rating": {
+     "age": 12,
+     "logo": "https://pic.rtbcdn.ru/agerestriction/99/0e/990e87f25d8689833de24c0eb7eaec81.png"
+    },
+    "age_range": {
+     "min": 0,
+     "max": 0
+    },
+    "created_ts": "2026-05-07T17:31:11",
+    "description": "MAX - https://max.ru/join/zkmMJf_u9kPN2C5FpjbtWqqBbAeqh_b6q0Hb2mQnRGE\nVK - https://vk.ru/dokumentalfilms",
+    "duration": 4879,
+    "embed_url": "https://rutube.ru/play/embed/a7719bd9f0dda395a60e9dbe747956ed",
+    "feed_name": "Документальные Фильмы",
+    "feed_url": "https://rutube.ru/video/person/45087022/",
+    "hits": 18714,
+    "html": "<iframe width=\"720\" height=\"405\" src=\"https://rutube.ru/play/embed/a7719bd9f0dda395a60e9dbe747956ed\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowfullscreen allow=\"encrypted-media\"></iframe>",
+    "is_adult": false,
+    "is_audio": false,
+    "is_club": false,
+    "is_classic": true,
+    "is_deleted": false,
+    "is_hidden": false,
+    "is_licensed": false,
+    "is_livestream": false,
+    "is_locked": false,
+    "is_official": false,
+    "is_original_content": false,
+    "is_original_sticker_2x2": false,
+    "is_paid": false,
+    "is_reborn_channel": false,
+    "kind_sign_for_user": true,
+    "is_on_air": false,
+    "last_update_ts": "2026-06-06T17:17:06",
+    "origin_type": "rtb",
+    "picture_url": "",
+    "position": 0,
+    "preview_url": "https://preview.rutube.ru/preview/a7719bd9f0dda395a60e9dbe747956ed.webp?exp=1791990818&s=gWexAz3A4vxcjn5rHdQ7rQ",
+    "product_id": 0,
+    "publication_ts": "2026-06-06T17:17:06",
+    "stream_type": "",
+    "thumbnail_url": "https://pic.rtbcdn.ru/video/2026-05-23/d8/6f/d86f480fd672d6e51966210fad5f22ce.jpg",
+    "title": "Тайна Пирамид: Египтяне не могли этого сделать? Древние астронавты! | Документальный Фильм",
+    "track_id": 453616973,
+    "video_url": "https://rutube.ru/video/a7719bd9f0dda395a60e9dbe747956ed/"
+   }
+  },
+  {
+   "video": {
+    "id": "55288907c5f7f05270b411e162af87ef",
+    "action_reason": {
+     "id": 0,
+     "name": ""
+    },
+    "author": {
+     "avatar_url": "https://pic.rtbcdn.ru/user/2026-07-20/c1/e7/c1e7d17b3533d4fe9b0d7af96c8fd03e.jpg",
+     "id": 45087022,
+     "name": "Документальные Фильмы",
+     "site_url": "https://rutube.ru/video/person/45087022/"
+    },
+    "category": {
+     "category_url": "https://rutube.ru/video/category/52/",
+     "for_kids": false,
+     "id": 52,
+     "name": "Наука",
+     "short_name": ""
+    },
+    "pg_rating": {
+     "age": 12,
+     "logo": "https://pic.rtbcdn.ru/agerestriction/99/0e/990e87f25d8689833de24c0eb7eaec81.png"
+    },
+    "age_range": {
+     "min": 0,
+     "max": 0
+    },
+    "created_ts": "2026-05-08T13:38:10",
+    "description": "MAX - https://max.ru/join/zkmMJf_u9kPN2C5FpjbtWqqBbAeqh_b6q0Hb2mQnRGE\nVK - https://vk.ru/dokumentalfilms\n\nЧто скрывает Марс?\nМогла ли на Марсе существовать древняя цивилизация? 🔴\nНа снимках Красной планеты исследователи годами находят загадочные структуры, напоминающие пирамиды, города и искусственные сооружения.\nНекоторые считают, что эти объекты могут быть следами внеземной жизни.\nВ этом фильме:\n— тайны Марса и загадочные аномалии\n— древние пирамиды и необычные структуры\n— рассекреченные материалы и теории, связанные с ЦРУ\n— версии учёных и исследователей\n— и вопрос, который человечество задаёт десятилетиями: были ли мы во Вселенной не одни?\nЧто скрывает Красная планета — игру природы или следы исчезнувшей цивилизации?\n🌍 Документальные фильмы о космосе, древних цивилизациях, загадках истории и необъяснимых явлениях — каждый день в 17:17 по МСК.",
+    "duration": 6384,
+    "embed_url": "https://rutube.ru/play/embed/55288907c5f7f05270b411e162af87ef",
+    "feed_name": "Документальные Фильмы",
+    "feed_url": "https://rutube.ru/video/person/45087022/",
+    "hits": 4889,
+    "html": "<iframe width=\"720\" height=\"405\" src=\"https://rutube.ru/play/embed/55288907c5f7f05270b411e162af87ef\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowfullscreen allow=\"encrypted-media\"></iframe>",
+    "is_adult": false,
+    "is_audio": false,
+    "is_club": false,
+    "is_classic": true,
+    "is_deleted": false,
+    "is_hidden": false,
+    "is_licensed": false,
+    "is_livestream": false,
+    "is_locked": false,
+    "is_official": false,
+    "is_original_content": false,
+    "is_original_sticker_2x2": false,
+    "is_paid": false,
+    "is_reborn_channel": false,
+    "kind_sign_for_user": true,
+    "is_on_air": false,
+    "last_update_ts": "2026-06-18T17:17:06",
+    "origin_type": "rtb",
+    "picture_url": "",
+    "position": 0,
+    "preview_url": "https://preview.rutube.ru/preview/55288907c5f7f05270b411e162af87ef.webp?exp=1791990956&s=hVE2pB7Vp-S2cKyQ_vKsDw",
+    "product_id": 0,
+    "publication_ts": "2026-06-18T17:17:06",
+    "stream_type": "",
+    "thumbnail_url": "https://pic.rtbcdn.ru/video/2026-05-26/cb/2d/cb2d52d7b9f2b4256a911bf0b3193017.jpg",
+    "title": "ИНОПЛАНЕТЯНЕ НА МАРСЕ? Древние пирамиды и ЦРУ | Документальный Фильм",
+    "track_id": 453674445,
+    "video_url": "https://rutube.ru/video/55288907c5f7f05270b411e162af87ef/"
+   }
+  },
+  {
+   "video": {
+    "id": "f99b46cf0e3bf90f17bac29af8e02a8c",
+    "action_reason": {
+     "id": 0,
+     "name": ""
+    },
+    "author": {
+     "avatar_url": "https://pic.rtbcdn.ru/user/2025-07-09/ff/01/ff01ce60316076f7fb14ac2b46ea98e3.jpg",
+     "id": 59162734,
+     "name": "AMAZING WORLD",
+     "site_url": "https://rutube.ru/video/person/59162734/"
+    },
+    "category": {
+     "category_url": "https://rutube.ru/video/category/57/",
+     "for_kids": false,
+     "id": 57,
+     "name": "Развлечения",
+     "short_name": ""
+    },
+    "pg_rating": {
+     "age": 12,
+     "logo": "https://pic.rtbcdn.ru/agerestriction/99/0e/990e87f25d8689833de24c0eb7eaec81.png"
+    },
+    "age_range": {
+     "min": 0,
+     "max": 0
+    },
+    "created_ts": "2025-08-22T04:28:09",
+    "description": "Чем являются загадочные летающие объекты, появляющиеся в небе из ниоткуда, а затем быстро исчезающие? Свидетельства об НЛО, рассказы очевидцев, пришельцы из других концов вселенной. Смотреть документальный фильм про аномальные явления и неопознанные летающие объекты.\n\n#amazingworld #нло #космос #фильм #документальный \n\nСсылка на плейлист\nhttps://rutube.ru/plst/1061783\n\nКанал Дзен: https://dzen.ru/amazing_world123",
+    "duration": 3144,
+    "embed_url": "https://rutube.ru/play/embed/f99b46cf0e3bf90f17bac29af8e02a8c",
+    "feed_name": "AMAZING WORLD",
+    "feed_url": "https://rutube.ru/video/person/59162734/",
+    "hits": 55356,
+    "html": "<iframe width=\"720\" height=\"405\" src=\"https://rutube.ru/play/embed/f99b46cf0e3bf90f17bac29af8e02a8c\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowfullscreen allow=\"encrypted-media\"></iframe>",
+    "is_adult": false,
+    "is_audio": false,
+    "is_club": false,
+    "is_classic": true,
+    "is_deleted": false,
+    "is_hidden": false,
+    "is_licensed": false,
+    "is_livestream": false,
+    "is_locked": false,
+    "is_official": false,
+    "is_original_content": false,
+    "is_original_sticker_2x2": false,
+    "is_paid": false,
+    "is_reborn_channel": false,
+    "kind_sign_for_user": false,
+    "is_on_air": false,
+    "last_update_ts": "2026-02-25T17:13:47",
+    "origin_type": "rtb",
+    "picture_url": "",
+    "position": 0,
+    "preview_url": "https://preview.rutube.ru/preview/f99b46cf0e3bf90f17bac29af8e02a8c.webp?exp=1791990677&s=Tc0sqvLtt35fb9xH2Tf6hw",
+    "product_id": 0,
+    "publication_ts": "2025-08-22T04:30:26",
+    "stream_type": "",
+    "thumbnail_url": "https://pic.rtbcdn.ru/video/2025-08-22/95/49/95491a8df3a9179b974e4188278fc4b0.jpg",
+    "title": "ДОКУМЕНТАЛЬНЫЙ ФИЛЬМ ПРО НЛО! НЛО И ПРИШЕЛЬЦЫ!",
+    "track_id": 431048431,
+    "video_url": "https://rutube.ru/video/f99b46cf0e3bf90f17bac29af8e02a8c/"
+   }
+  },
+  {
+   "video": {
+    "id": "1387f00c60bf56c37317b732ac2cd73f",
+    "action_reason": {
+     "id": 0,
+     "name": ""
+    },
+    "author": {
+     "avatar_url": "https://pic.rtbcdn.ru/user/2026-08-24/78/d0/78d0c098de4557d6d9c70892603e28b5.jpg",
+     "id": 46513717,
+     "name": "Глобализация",
+     "site_url": "https://rutube.ru/video/person/46513717/"
+    },
+    "category": {
+     "category_url": "https://rutube.ru/video/category/52/",
+     "for_kids": false,
+     "id": 52,
+     "name": "Наука",
+     "short_name": ""
+    },
+    "pg_rating": {
+     "age": 12,
+     "logo": "https://pic.rtbcdn.ru/agerestriction/99/0e/990e87f25d8689833de24c0eb7eaec81.png"
+    },
+    "age_range": {
+     "min": 0,
+     "max": 0
+    },
+    "created_ts": "2026-04-21T11:52:12",
+    "description": "Вы — не пылинка в космосе, а часть структуры, которую наука еле описывает, а разум отказывается вместить. Это видео уведет вас от порога дома к краю всего сущего.\n\nПутешествие масштабов:\n\nЗемля → Солнце → Млечный Путь в сверхскоплении Ланиакея (100 000 галактик)\n\nКосмическая паутина: нити, пронизывающие мироздание\n\nПарадокс: за пределами наблюдаемой Вселенной — ваши копии и иные физики\n\nСамые смелые гипотезы:\n\nРеальность как голограмма или симуляция\n\nКосмос похож на нейронную сеть мозга\n\nСознание — Вселенная познает себя через вас\n\nКаждая частица вашего тела — пепел мертвых звезд. Что шокировало больше: бесконечные \"вы\", Вселенная-мозг или симуляция? Комменты ждут! Подписывайтесь за новыми горизонтами сознания.",
+    "duration": 7914,
+    "embed_url": "https://rutube.ru/play/embed/1387f00c60bf56c37317b732ac2cd73f",
+    "feed_name": "Глобализация",
+    "feed_url": "https://rutube.ru/video/person/46513717/",
+    "hits": 65880,
+    "html": "<iframe width=\"720\" height=\"405\" src=\"https://rutube.ru/play/embed/1387f00c60bf56c37317b732ac2cd73f\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowfullscreen allow=\"encrypted-media\"></iframe>",
+    "is_adult": false,
+    "is_audio": false,
+    "is_club": false,
+    "is_classic": true,
+    "is_deleted": false,
+    "is_hidden": false,
+    "is_licensed": false,
+    "is_livestream": false,
+    "is_locked": false,
+    "is_official": false,
+    "is_original_content": false,
+    "is_original_sticker_2x2": false,
+    "is_paid": false,
+    "is_reborn_channel": false,
+    "kind_sign_for_user": true,
+    "is_on_air": false,
+    "last_update_ts": "2026-06-04T22:30:06",
+    "origin_type": "rtb",
+    "picture_url": "",
+    "position": 0,
+    "preview_url": "https://preview.rutube.ru/preview/1387f00c60bf56c37317b732ac2cd73f.webp?exp=1791990850&s=m8xNkOaA5GkTrh1zVpaymg",
+    "product_id": 0,
+    "publication_ts": "2026-06-04T22:30:06",
+    "stream_type": "",
+    "thumbnail_url": "https://pic.rtbcdn.ru/video/2026-04-21/21/5e/215eef2eda8ab257051aefa67ecfae96.jpg",
+    "title": "Масштаб Космоса, который перевернёт ваше сознание навсегда | Документальный фильм",
+    "track_id": 452286645,
+    "video_url": "https://rutube.ru/video/1387f00c60bf56c37317b732ac2cd73f/"
+   }
+  },
+  {
+   "video": {
+    "id": "2bbce5e5c81bdbbd7b8792acfa9cf49c",
+    "action_reason": {
+     "id": 0,
+     "name": ""
+    },
+    "author": {
+     "avatar_url": "https://pic.rtbcdn.ru/user/49/b4/49b4a1dcdbb152c72b48211ea0433cb4.jpg",
+     "id": 19457647,
+     "name": "Протоистория с Николаем Субботиным",
+     "site_url": "https://rutube.ru/video/person/19457647/"
+    },
+    "category": {
+     "category_url": "https://rutube.ru/video/category/54/",
+     "for_kids": false,
+     "id": 54,
+     "name": "Эзотерика",
+     "short_name": ""
+    },
+    "pg_rating": {
+     "age": 12,
+     "logo": "https://pic.rtbcdn.ru/agerestriction/99/0e/990e87f25d8689833de24c0eb7eaec81.png"
+    },
+    "age_range": {
+     "min": 0,
+     "max": 0
+    },
+    "created_ts": "2026-06-02T03:28:15",
+    "description": "Слово «НЛО» придумали в 1953 году. Но сами объекты появились раньше. Первое в мире крушение – 1897 год, Техас. Сигарообразный аппарат врезался в мельницу. Пилот – НЕ ЧЕЛОВЕК. Его останки до сих пор в безымянной могиле. Обломки сбросили в колодец. Слухи? Или первая в истории зачистка?\n\n1947 год, Розуэлл, Нью-Мексико. Фермер находит обломки и траншею в сотни футов. Военные сначала забирают всё под гриф «секретно», потом заявляют: «метеозонд». А через 50 лет признают – это был шпионский стратостат. НО ПОЧЕМУ ТОГДА ВСКРЫЛИ ТЕЛА ПРИШЕЛЬЦЕВ? Видео вскрытия правительство назвало подделкой. А вы поверили?\n\nФлоренция, 1954 год. 10 000 фанатов на стадионе замирают, глядя в небо. Гигантское яйцо медленно плывёт, роняя «серебряные нити». Их называют «волосы ангелов». В нитях находят БОР, КРЕМНИЙ, МАГНИЙ – не паутина. При контакте с кожей нити… ИСЧЕЗАЮТ.\n\nТегеран, 1976 год. ВВС Ирана поднимают два истребителя F-4. Объект размером с «Боинг» отключает всю электронику самолётов. Пилот Парвиз Джафари пытается запустить ракету – система мертва. Он хочет катапультироваться – кнопка не работает. Маленький шар отделяется от НЛО и мягко садится в пустыне. Утром военные находят только странный сигнал. Генерал Азербарзин: «НИ ОДНА СТРАНА МИРА НЕ ОБЛАДАЕТ ТАКИМИ ТЕХНОЛОГИЯМИ. ЭТО ИЗ КОСМОСА».\n\nСССР, 1977 год, Петрозаводск. Сотни людей видят в небе светящуюся «медузу» с разноцветными щупальцами. Власти молчат (космодром Плесецк – секретный). Но через несколько месяцев в окнах квартир горожан появляются ОПЛАВЛЕННЫЕ ОТВЕРСТИЯ. Круглые, как от лазера. Кто их прожёг? Не ракета же.\n\nУрал, 1970–1980-е. В Свердловске женщина видит в окне лицо – огромный череп, глаза, кожа как слоновая кость. Оно смотрит минуту и тает. В другом районе на подоконнике проступает нестираемый символ – круг с лучами. Дети играют со светящимися шариками, которые отпрыгивают от ног, а потом… ЖГУТ ЛЮДЕЙ.\n\nКавказ, 1978 год, палатка альпинистов. Ярко-жёлтый шар размером с теннисный мяч влетает внутрь. Он перелетает от одного спящего к другому – каждый кричит от боли. Олег Коровин УБИТ. Шар действовал не хаотично, а САДИСТСКИ ОСОЗНАННО.\n\nЧто это? Шаровые молнии? Но те живут секунды. Ракетные запуски? Тогда почему дыры в окнах и труп альпиниста? Учёные разводят руками. Одно ясно: они не просто наблюдают. Они ИЗУЧАЮТ нас. И иногда – НАКАЗЫВАЮТ.\n\nВ этом видео – рассекреченные документы, свидетельства пилотов и генералов, газетные вырезки 100-летней давности. Вы больше никогда не будете спокойно смотреть в ночное небо.\n\n✅ Зеркала \"Протоистории\":\n📌 Вконтакте - https://vk.ru/topsecrethistory\n📌 Rutube - https://rutube.ru/u/protohistory/\n📌 Дзен - https://dzen.ru/protohistory\n📌 Телеграм - https://t.me/protohist\n📌 MAX - https://max.ru/topsecrethistory - Наш канал в Макс'е\n📌 Эксклюзивные материалы - https://sponsr.ru/protohistory/\n📌 Для зарубежных подписчиков - https://boosty.to/protohistory\n📌 Вконтакте - https://vk.com/protohistory\n📌 Одноклассники - https://ok.ru/protohistory\n📌 Сайт \"Протоистория\" - http://www.protohistory.ru/",
+    "duration": 4079,
+    "embed_url": "https://rutube.ru/play/embed/2bbce5e5c81bdbbd7b8792acfa9cf49c",
+    "feed_name": "Протоистория с Николаем Субботиным",
+    "feed_url": "https://rutube.ru/video/person/19457647/",
+    "hits": 27261,
+    "html": "<iframe width=\"720\" height=\"405\" src=\"https://rutube.ru/play/embed/2bbce5e5c81bdbbd7b8792acfa9cf49c\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowfullscreen allow=\"encrypted-media\"></iframe>",
+    "is_adult": false,
+    "is_audio": false,
+    "is_club": false,
+    "is_classic": true,
+    "is_deleted": false,
+    "is_hidden": false,
+    "is_licensed": false,
+    "is_livestream": false,
+    "is_locked": false,
+    "is_official": false,
+    "is_original_content": false,
+    "is_original_sticker_2x2": false,
+    "is_paid": false,
+    "is_reborn_channel": false,
+    "kind_sign_for_user": true,
+    "is_on_air": false,
+    "last_update_ts": "2026-06-27T14:55:08",
+    "origin_type": "rtb",
+    "picture_url": "",
+    "position": 0,
+    "preview_url": "https://preview.rutube.ru/preview/2bbce5e5c81bdbbd7b8792acfa9cf49c.webp?exp=1791990900&s=EbSBL4hyLEFFvHD0OL6-dA",
+    "product_id": 0,
+    "publication_ts": "2026-06-27T14:55:08",
+    "stream_type": "",
+    "thumbnail_url": "https://pic.rtbcdn.ru/video/2026-06-02/9a/2b/9a2b4172609b68604f22e86311225bde.jpg",
+    "title": "НЛО СУЩЕСТВУЕТ! СЕКРЕТНЫЕ АРХИВЫ, КОТОРЫЕ ПУГАЮТ ДАЖЕ ВОЕННЫХ",
+    "track_id": 455690296,
+    "video_url": "https://rutube.ru/video/2bbce5e5c81bdbbd7b8792acfa9cf49c/"
+   }
+  }
+ ]
+}

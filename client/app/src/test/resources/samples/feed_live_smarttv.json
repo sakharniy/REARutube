@@ -1,0 +1,859 @@
+{
+ "id": 14617,
+ "slug": "live_smarttv",
+ "name": "ТВ-эфиры",
+ "name_displayed": true,
+ "description": "",
+ "is_published": false,
+ "counter_label": "",
+ "ab_test_code": "",
+ "created_ts": "2021-11-24T18:13:26",
+ "allow_popup": false,
+ "show_sharing_card": false,
+ "url": "https://rutube.ru/feeds/live_smarttv/",
+ "tabs": [
+  {
+   "id": 24604,
+   "name": "Главная",
+   "sort": "original",
+   "order_number": 1,
+   "resources": [
+    {
+     "id": 60627,
+     "created_ts": "2024-10-15T17:54:29",
+     "content_type": {
+      "id": 18,
+      "app_label": "tags",
+      "model": "tag"
+     },
+     "description": "",
+     "images": [],
+     "object_id": "6264",
+     "order_number": 1,
+     "url": "https://rutube.ru/api/tags/video/6264/?limit=1000&origin_type=rst&sort=tagged_a&show_hidden_videos=False",
+     "extra_params": {
+      "limit": 1000,
+      "origin_type": "rst",
+      "name": "Федеральные",
+      "link": 0
+     },
+     "name": "Федеральные",
+     "inline_widget": true,
+     "site_url": null,
+     "playlist_name": "Федеральные прямые эфиры",
+     "can_subscribe": true,
+     "subscribers_count": 0,
+     "is_hiddable": false,
+     "movie_check": false,
+     "branding_selection": null
+    },
+    {
+     "id": 58101,
+     "created_ts": "2024-03-13T12:56:41",
+     "content_type": {
+      "id": 18,
+      "app_label": "tags",
+      "model": "tag"
+     },
+     "description": "",
+     "images": [],
+     "object_id": "5968",
+     "order_number": 2,
+     "url": "https://rutube.ru/api/tags/video/5968/?limit=1000&origin_type=rst&sort=tagged_d&show_hidden_videos=False",
+     "extra_params": {
+      "limit": 1000,
+      "origin_type": "rst",
+      "name": "Спортивные"
+     },
+     "name": "Спортивные",
+     "inline_widget": true,
+     "site_url": "https://rutube.ru/tags/video/5968/",
+     "playlist_name": "Эфиры спортивных каналов",
+     "can_subscribe": true,
+     "subscribers_count": 3,
+     "is_hiddable": false,
+     "movie_check": false,
+     "branding_selection": null
+    },
+    {
+     "id": 60630,
+     "created_ts": "2024-10-15T19:09:07",
+     "content_type": {
+      "id": 18,
+      "app_label": "tags",
+      "model": "tag"
+     },
+     "description": "",
+     "images": [],
+     "object_id": "5979",
+     "order_number": 3,
+     "url": "https://rutube.ru/api/tags/video/5979/?limit=1000&origin_type=rst&sort=tagged_d&show_hidden_videos=False",
+     "extra_params": {
+      "limit": 1000,
+      "origin_type": "rst",
+      "name": "Новостные",
+      "link": 0
+     },
+     "name": "Новостные",
+     "inline_widget": true,
+     "site_url": null,
+     "playlist_name": "Прямые эфиры новостей",
+     "can_subscribe": true,
+     "subscribers_count": 0,
+     "is_hiddable": false,
+     "movie_check": false,
+     "branding_selection": null
+    },
+    {
+     "id": 82048,
+     "created_ts": "2026-06-25T12:24:31",
+     "content_type": {
+      "id": 18,
+      "app_label": "tags",
+      "model": "tag"
+     },
+     "description": "",
+     "images": [],
+     "object_id": "1365306",
+     "order_number": 4,
+     "url": "https://rutube.ru/api/tags/video/1365306/?limit=1000&origin_type=rst&sort=tagged_d&show_hidden_videos=False",
+     "extra_params": {
+      "limit": 1000,
+      "origin_type": "rst",
+      "name": "Киноэфиры"
+     },
+     "name": "Киноэфиры",
+     "inline_widget": true,
+     "site_url": "https://rutube.ru/tags/video/1365306/",
+     "playlist_name": "Киноэфиры",
+     "can_subscribe": true,
+     "subscribers_count": 0,
+     "is_hiddable": false,
+     "movie_check": false,
+     "branding_selection": null
+    },
+    {
+     "id": 52462,
+     "created_ts": "2022-11-23T13:07:35",
+     "content_type": {
+      "id": 18,
+      "app_label": "tags",
+      "model": "tag"
+     },
+     "description": "",
+     "images": [],
+     "object_id": "5970",
+     "order_number": 5,
+     "url": "https://rutube.ru/api/tags/video/5970/?limit=1000&origin_type=rst&sort=tagged_d&show_hidden_videos=False",
+     "extra_params": {
+      "limit": 1000,
+      "origin_type": "rst",
+      "name": "Развлекательные"
+     },
+     "name": "Развлекательные",
+     "inline_widget": true,
+     "site_url": "https://rutube.ru/tags/video/5970/",
+     "playlist_name": "Эфиры развлекательных каналов",
+     "can_subscribe": true,
+     "subscribers_count": 6,
+     "is_hiddable": false,
+     "movie_check": false,
+     "branding_selection": null
+    },
+    {
+     "id": 52463,
+     "created_ts": "2022-11-23T13:07:35",
+     "content_type": {
+      "id": 18,
+      "app_label": "tags",
+      "model": "tag"
+     },
+     "description": "",
+     "images": [],
+     "object_id": "6759",
+     "order_number": 8,
+     "url": "https://rutube.ru/api/tags/video/6759/?limit=1000&origin_type=rst&sort=tagged_d&show_hidden_videos=False",
+     "extra_params": {
+      "limit": 1000,
+      "origin_type": "rst",
+      "name": "Познавательные"
+     },
+     "name": "Познавательные",
+     "inline_widget": true,
+     "site_url": "https://rutube.ru/tags/video/6759/",
+     "playlist_name": "Эфиры познавательных каналов_",
+     "can_subscribe": true,
+     "subscribers_count": 0,
+     "is_hiddable": false,
+     "movie_check": false,
+     "branding_selection": null
+    },
+    {
+     "id": 52465,
+     "created_ts": "2022-11-23T13:07:35",
+     "content_type": {
+      "id": 18,
+      "app_label": "tags",
+      "model": "tag"
+     },
+     "description": "",
+     "images": [],
+     "object_id": "6722",
+     "order_number": 9,
+     "url": "https://rutube.ru/api/tags/video/6722/?limit=1000&origin_type=rst&sort=tagged_d&show_hidden_videos=False",
+     "extra_params": {
+      "limit": 1000,
+      "origin_type": "rst",
+      "name": "Детские"
+     },
+     "name": "Детские",
+     "inline_widget": true,
+     "site_url": "https://rutube.ru/tags/video/6722/",
+     "playlist_name": "Детские эфиры",
+     "can_subscribe": true,
+     "subscribers_count": 0,
+     "is_hiddable": false,
+     "movie_check": false,
+     "branding_selection": null
+    },
+    {
+     "id": 61624,
+     "created_ts": "2024-11-29T17:44:12",
+     "content_type": {
+      "id": 18,
+      "app_label": "tags",
+      "model": "tag"
+     },
+     "description": "",
+     "images": [],
+     "object_id": "8275",
+     "order_number": 10,
+     "url": "https://rutube.ru/api/tags/video/8275/?limit=1000&origin_type=rst&sort=tagged_d&show_hidden_videos=False",
+     "extra_params": {
+      "limit": 1000,
+      "origin_type": "rst",
+      "name": "Международные эфиры"
+     },
+     "name": "Международные эфиры",
+     "inline_widget": true,
+     "site_url": "https://rutube.ru/tags/video/8275/",
+     "playlist_name": "Международные эфиры",
+     "can_subscribe": true,
+     "subscribers_count": 0,
+     "is_hiddable": false,
+     "movie_check": false,
+     "branding_selection": null
+    },
+    {
+     "id": 79475,
+     "created_ts": "2026-03-24T14:23:38",
+     "content_type": {
+      "id": 42,
+      "app_label": "metainfo",
+      "model": "tv"
+     },
+     "description": "",
+     "images": [],
+     "object_id": "157124",
+     "order_number": 40,
+     "url": "https://rutube.ru/api/metainfo/tv/157124/video/?sort=publication_a&show_hidden_videos=False&limit=20",
+     "extra_params": {
+      "name": "Наше всё",
+      "link": 0
+     },
+     "name": "Наше всё",
+     "inline_widget": true,
+     "site_url": null,
+     "playlist_name": "НАШЕ ВСЕ",
+     "can_subscribe": true,
+     "subscribers_count": 6925,
+     "is_hiddable": false,
+     "movie_check": false,
+     "branding_selection": null
+    },
+    {
+     "id": 60628,
+     "created_ts": "2024-10-15T17:54:53",
+     "content_type": {
+      "id": 18,
+      "app_label": "tags",
+      "model": "tag"
+     },
+     "description": "",
+     "images": [],
+     "object_id": "6208",
+     "order_number": 200,
+     "url": "https://rutube.ru/api/tags/video/6208/?limit=1000&origin_type=rst&sort=tagged_d&show_hidden_videos=False",
+     "extra_params": {
+      "limit": 1000,
+      "origin_type": "rst",
+      "name": "Региональные",
+      "link": 0
+     },
+     "name": "Региональные",
+     "inline_widget": true,
+     "site_url": null,
+     "playlist_name": "Прямые эфиры региональных ТВ",
+     "can_subscribe": true,
+     "subscribers_count": 0,
+     "is_hiddable": false,
+     "movie_check": false,
+     "branding_selection": null
+    },
+    {
+     "id": 52464,
+     "created_ts": "2022-11-23T13:07:35",
+     "content_type": {
+      "id": 18,
+      "app_label": "tags",
+      "model": "tag"
+     },
+     "description": "",
+     "images": [],
+     "object_id": "6238",
+     "order_number": 1100,
+     "url": "https://rutube.ru/api/tags/video/6238/?limit=1000&origin_type=rst&sort=tagged_a&show_hidden_videos=False",
+     "extra_params": {
+      "limit": 1000,
+      "origin_type": "rst",
+      "name": "Радиостанции"
+     },
+     "name": "Радиостанции",
+     "inline_widget": true,
+     "site_url": "https://rutube.ru/tags/video/6238/",
+     "playlist_name": "Радиоэфиры",
+     "can_subscribe": true,
+     "subscribers_count": 0,
+     "is_hiddable": false,
+     "movie_check": false,
+     "branding_selection": null
+    }
+   ],
+   "link": null,
+   "slug": "main",
+   "hide_tags": false,
+   "hide_authors": false,
+   "url": "https://rutube.ru/feeds/live_smarttv/main/",
+   "brandings": [],
+   "images": []
+  },
+  {
+   "id": 43771,
+   "name": "Федеральные",
+   "sort": "original",
+   "order_number": 2,
+   "resources": [
+    {
+     "id": 83047,
+     "created_ts": "2026-07-21T14:40:18",
+     "content_type": {
+      "id": 18,
+      "app_label": "tags",
+      "model": "tag"
+     },
+     "description": "",
+     "images": [],
+     "object_id": "6264",
+     "order_number": 1,
+     "url": "https://rutube.ru/api/tags/video/6264/?limit=1000&noTitle=True&origin_type=rst&sort=tagged_a&show_hidden_videos=False",
+     "extra_params": {
+      "limit": 1000,
+      "noTitle": true,
+      "origin_type": "rst",
+      "name": "Федеральные",
+      "link": 0
+     },
+     "name": "Федеральные",
+     "inline_widget": false,
+     "site_url": null,
+     "playlist_name": "Федеральные прямые эфиры",
+     "can_subscribe": true,
+     "subscribers_count": 0,
+     "is_hiddable": false,
+     "movie_check": false,
+     "branding_selection": null
+    }
+   ],
+   "link": null,
+   "slug": "federal",
+   "hide_tags": false,
+   "hide_authors": false,
+   "url": "https://rutube.ru/feeds/live_smarttv/federal/",
+   "brandings": [],
+   "images": []
+  },
+  {
+   "id": 43772,
+   "name": "Развлекательные",
+   "sort": "original",
+   "order_number": 3,
+   "resources": [
+    {
+     "id": 83048,
+     "created_ts": "2026-07-21T14:41:52",
+     "content_type": {
+      "id": 18,
+      "app_label": "tags",
+      "model": "tag"
+     },
+     "description": "",
+     "images": [],
+     "object_id": "5970",
+     "order_number": 1,
+     "url": "https://rutube.ru/api/tags/video/5970/?limit=1000&noTitle=True&origin_type=rst&sort=tagged_d&show_hidden_videos=False",
+     "extra_params": {
+      "limit": 1000,
+      "noTitle": true,
+      "origin_type": "rst",
+      "name": "Развлекательные",
+      "link": 0
+     },
+     "name": "Развлекательные",
+     "inline_widget": false,
+     "site_url": null,
+     "playlist_name": "Эфиры развлекательных каналов",
+     "can_subscribe": true,
+     "subscribers_count": 6,
+     "is_hiddable": false,
+     "movie_check": false,
+     "branding_selection": null
+    }
+   ],
+   "link": null,
+   "slug": "fun",
+   "hide_tags": false,
+   "hide_authors": false,
+   "url": "https://rutube.ru/feeds/live_smarttv/fun/",
+   "brandings": [],
+   "images": []
+  },
+  {
+   "id": 43781,
+   "name": "Спортивные",
+   "sort": "original",
+   "order_number": 4,
+   "resources": [
+    {
+     "id": 83160,
+     "created_ts": "2026-07-21T18:28:19",
+     "content_type": {
+      "id": 18,
+      "app_label": "tags",
+      "model": "tag"
+     },
+     "description": "",
+     "images": [],
+     "object_id": "5968",
+     "order_number": 1,
+     "url": "https://rutube.ru/api/tags/video/5968/?limit=1000&noTitle=True&origin_type=rst&sort=tagged_d&show_hidden_videos=False",
+     "extra_params": {
+      "limit": 1000,
+      "noTitle": true,
+      "origin_type": "rst",
+      "name": "Спортивные",
+      "link": 0
+     },
+     "name": "Спортивные",
+     "inline_widget": false,
+     "site_url": null,
+     "playlist_name": "Эфиры спортивных каналов",
+     "can_subscribe": true,
+     "subscribers_count": 3,
+     "is_hiddable": false,
+     "movie_check": false,
+     "branding_selection": null
+    }
+   ],
+   "link": null,
+   "slug": "sport",
+   "hide_tags": false,
+   "hide_authors": false,
+   "url": "https://rutube.ru/feeds/live_smarttv/sport/",
+   "brandings": [],
+   "images": []
+  },
+  {
+   "id": 43782,
+   "name": "Новостные",
+   "sort": "original",
+   "order_number": 5,
+   "resources": [
+    {
+     "id": 83161,
+     "created_ts": "2026-07-21T18:33:31",
+     "content_type": {
+      "id": 18,
+      "app_label": "tags",
+      "model": "tag"
+     },
+     "description": "",
+     "images": [],
+     "object_id": "5979",
+     "order_number": 1,
+     "url": "https://rutube.ru/api/tags/video/5979/?limit=1000&noTitle=True&origin_type=rst&sort=tagged_d&show_hidden_videos=False",
+     "extra_params": {
+      "limit": 1000,
+      "noTitle": true,
+      "origin_type": "rst",
+      "name": "Новостные",
+      "link": 0
+     },
+     "name": "Новостные",
+     "inline_widget": false,
+     "site_url": null,
+     "playlist_name": "Прямые эфиры новостей",
+     "can_subscribe": true,
+     "subscribers_count": 0,
+     "is_hiddable": false,
+     "movie_check": false,
+     "branding_selection": null
+    }
+   ],
+   "link": null,
+   "slug": "news",
+   "hide_tags": false,
+   "hide_authors": false,
+   "url": "https://rutube.ru/feeds/live_smarttv/news/",
+   "brandings": [],
+   "images": []
+  },
+  {
+   "id": 43783,
+   "name": "Познавательные",
+   "sort": "original",
+   "order_number": 6,
+   "resources": [
+    {
+     "id": 83162,
+     "created_ts": "2026-07-21T18:33:31",
+     "content_type": {
+      "id": 18,
+      "app_label": "tags",
+      "model": "tag"
+     },
+     "description": "",
+     "images": [],
+     "object_id": "6759",
+     "order_number": 1,
+     "url": "https://rutube.ru/api/tags/video/6759/?limit=1000&noTitle=True&origin_type=rst&sort=tagged_d&show_hidden_videos=False",
+     "extra_params": {
+      "limit": 1000,
+      "noTitle": true,
+      "origin_type": "rst",
+      "name": "Познавательные",
+      "link": 0
+     },
+     "name": "Познавательные",
+     "inline_widget": false,
+     "site_url": null,
+     "playlist_name": "Эфиры познавательных каналов_",
+     "can_subscribe": true,
+     "subscribers_count": 0,
+     "is_hiddable": false,
+     "movie_check": false,
+     "branding_selection": null
+    }
+   ],
+   "link": null,
+   "slug": "education",
+   "hide_tags": false,
+   "hide_authors": false,
+   "url": "https://rutube.ru/feeds/live_smarttv/education/",
+   "brandings": [],
+   "images": []
+  },
+  {
+   "id": 43784,
+   "name": "Детские",
+   "sort": "original",
+   "order_number": 7,
+   "resources": [
+    {
+     "id": 83163,
+     "created_ts": "2026-07-21T18:33:31",
+     "content_type": {
+      "id": 18,
+      "app_label": "tags",
+      "model": "tag"
+     },
+     "description": "",
+     "images": [],
+     "object_id": "6722",
+     "order_number": 1,
+     "url": "https://rutube.ru/api/tags/video/6722/?limit=1000&noTitle=True&origin_type=rst&sort=tagged_d&show_hidden_videos=False",
+     "extra_params": {
+      "limit": 1000,
+      "noTitle": true,
+      "origin_type": "rst",
+      "name": "Детские",
+      "link": 0
+     },
+     "name": "Детские",
+     "inline_widget": false,
+     "site_url": null,
+     "playlist_name": "Детские эфиры",
+     "can_subscribe": true,
+     "subscribers_count": 0,
+     "is_hiddable": false,
+     "movie_check": false,
+     "branding_selection": null
+    }
+   ],
+   "link": null,
+   "slug": "kids",
+   "hide_tags": false,
+   "hide_authors": false,
+   "url": "https://rutube.ru/feeds/live_smarttv/kids/",
+   "brandings": [],
+   "images": []
+  },
+  {
+   "id": 43785,
+   "name": "На языке оригинала",
+   "sort": "original",
+   "order_number": 8,
+   "resources": [
+    {
+     "id": 83164,
+     "created_ts": "2026-07-21T18:33:31",
+     "content_type": {
+      "id": 18,
+      "app_label": "tags",
+      "model": "tag"
+     },
+     "description": "",
+     "images": [],
+     "object_id": "8275",
+     "order_number": 1,
+     "url": "https://rutube.ru/api/tags/video/8275/?limit=1000&noTitle=True&origin_type=rst&sort=tagged_d&show_hidden_videos=False",
+     "extra_params": {
+      "limit": 1000,
+      "noTitle": true,
+      "origin_type": "rst",
+      "name": "На языке оригинала",
+      "link": 0
+     },
+     "name": "На языке оригинала",
+     "inline_widget": false,
+     "site_url": null,
+     "playlist_name": "Международные эфиры",
+     "can_subscribe": true,
+     "subscribers_count": 0,
+     "is_hiddable": false,
+     "movie_check": false,
+     "branding_selection": null
+    }
+   ],
+   "link": null,
+   "slug": "foreign",
+   "hide_tags": false,
+   "hide_authors": false,
+   "url": "https://rutube.ru/feeds/live_smarttv/foreign/",
+   "brandings": [],
+   "images": []
+  },
+  {
+   "id": 43786,
+   "name": "Платные",
+   "sort": "original",
+   "order_number": 9,
+   "resources": [
+    {
+     "id": 83168,
+     "created_ts": "2026-07-21T18:36:44",
+     "content_type": {
+      "id": 18,
+      "app_label": "tags",
+      "model": "tag"
+     },
+     "description": "",
+     "images": [],
+     "object_id": "1990829",
+     "order_number": 1,
+     "url": "https://rutube.ru/api/tags/video/1990829/?show_hidden_videos=False&limit=20",
+     "extra_params": {
+      "name": "МАТЧ ПРЕМЬЕР",
+      "link": 0
+     },
+     "name": "МАТЧ ПРЕМЬЕР",
+     "inline_widget": true,
+     "site_url": null,
+     "playlist_name": "Подписка МАТЧ ПРЕМЬЕР",
+     "can_subscribe": true,
+     "subscribers_count": 0,
+     "is_hiddable": false,
+     "movie_check": false,
+     "branding_selection": null
+    },
+    {
+     "id": 83362,
+     "created_ts": "2026-07-31T15:16:21",
+     "content_type": {
+      "id": 18,
+      "app_label": "tags",
+      "model": "tag"
+     },
+     "description": "",
+     "images": [],
+     "object_id": "2472156",
+     "order_number": 2,
+     "url": "https://rutube.ru/api/tags/video/2472156/?show_hidden_videos=False&limit=20",
+     "extra_params": {
+      "name": "Пакет «Спорт»",
+      "link": 0
+     },
+     "name": "Пакет «Спорт»",
+     "inline_widget": true,
+     "site_url": null,
+     "playlist_name": "Прямые эфиры в пакете «Спорт»",
+     "can_subscribe": true,
+     "subscribers_count": 0,
+     "is_hiddable": false,
+     "movie_check": false,
+     "branding_selection": null
+    },
+    {
+     "id": 83165,
+     "created_ts": "2026-07-21T18:33:31",
+     "content_type": {
+      "id": 42,
+      "app_label": "metainfo",
+      "model": "tv"
+     },
+     "description": "",
+     "images": [],
+     "object_id": "157124",
+     "order_number": 3,
+     "url": "https://rutube.ru/api/metainfo/tv/157124/video/?limit=1000&noTitle=True&origin_type=rst&sort=tagged_d&show_hidden_videos=False",
+     "extra_params": {
+      "limit": 1000,
+      "noTitle": true,
+      "origin_type": "rst",
+      "name": "В подписке RUTUBE x PREMIER",
+      "link": 0
+     },
+     "name": "В подписке RUTUBE x PREMIER",
+     "inline_widget": false,
+     "site_url": null,
+     "playlist_name": "НАШЕ ВСЕ",
+     "can_subscribe": true,
+     "subscribers_count": 6925,
+     "is_hiddable": false,
+     "movie_check": false,
+     "branding_selection": null
+    }
+   ],
+   "link": null,
+   "slug": "paid",
+   "hide_tags": false,
+   "hide_authors": false,
+   "url": "https://rutube.ru/feeds/live_smarttv/paid/",
+   "brandings": [],
+   "images": []
+  },
+  {
+   "id": 43787,
+   "name": "Региональные",
+   "sort": "original",
+   "order_number": 10,
+   "resources": [
+    {
+     "id": 83166,
+     "created_ts": "2026-07-21T18:33:31",
+     "content_type": {
+      "id": 18,
+      "app_label": "tags",
+      "model": "tag"
+     },
+     "description": "",
+     "images": [],
+     "object_id": "6208",
+     "order_number": 1,
+     "url": "https://rutube.ru/api/tags/video/6208/?limit=1000&noTitle=True&origin_type=rst&sort=tagged_d&show_hidden_videos=False",
+     "extra_params": {
+      "limit": 1000,
+      "noTitle": true,
+      "origin_type": "rst",
+      "name": "Региональные",
+      "link": 0
+     },
+     "name": "Региональные",
+     "inline_widget": false,
+     "site_url": null,
+     "playlist_name": "Прямые эфиры региональных ТВ",
+     "can_subscribe": true,
+     "subscribers_count": 0,
+     "is_hiddable": false,
+     "movie_check": false,
+     "branding_selection": null
+    }
+   ],
+   "link": null,
+   "slug": "region",
+   "hide_tags": false,
+   "hide_authors": false,
+   "url": "https://rutube.ru/feeds/live_smarttv/region/",
+   "brandings": [],
+   "images": []
+  },
+  {
+   "id": 43788,
+   "name": "Радио",
+   "sort": "original",
+   "order_number": 12,
+   "resources": [
+    {
+     "id": 83167,
+     "created_ts": "2026-07-21T18:33:31",
+     "content_type": {
+      "id": 18,
+      "app_label": "tags",
+      "model": "tag"
+     },
+     "description": "",
+     "images": [],
+     "object_id": "6238",
+     "order_number": 1,
+     "url": "https://rutube.ru/api/tags/video/6238/?limit=1000&noTitle=True&origin_type=rst&sort=tagged_d&show_hidden_videos=False",
+     "extra_params": {
+      "limit": 1000,
+      "noTitle": true,
+      "origin_type": "rst",
+      "name": "Радио",
+      "link": 0
+     },
+     "name": "Радио",
+     "inline_widget": false,
+     "site_url": null,
+     "playlist_name": "Радиоэфиры",
+     "can_subscribe": true,
+     "subscribers_count": 0,
+     "is_hiddable": false,
+     "movie_check": false,
+     "branding_selection": null
+    }
+   ],
+   "link": null,
+   "slug": "radio",
+   "hide_tags": false,
+   "hide_authors": false,
+   "url": "https://rutube.ru/feeds/live_smarttv/radio/",
+   "brandings": [],
+   "images": []
+  }
+ ],
+ "related_tv": null,
+ "related_person": null,
+ "product": null,
+ "main_trailer": null,
+ "poster_picture": "",
+ "image": "",
+ "site_part": 2,
+ "logo": null,
+ "logo_light": null,
+ "additional_info": "",
+ "additional_info_link": {
+  "name": "",
+  "url": ""
+ }
+}

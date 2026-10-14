@@ -1,0 +1,123 @@
+{
+ "activities": [
+  {
+   "annotation_id": "760b3453-bb7c-4b55-a556-1e92b37654f4",
+   "annotation_type": "SKIP_INTRO",
+   "activity_id": "8325232",
+   "activity_type": "BUTTON",
+   "params": {
+    "on_click": {
+     "strategy": "HIDE"
+    },
+    "show": {
+     "strategy": "AT_TIME",
+     "end_position_ms": 10000,
+     "start_position_ms": 0
+    },
+    "text": "Смотреть заставку"
+   }
+  },
+  {
+   "annotation_id": "760b3453-bb7c-4b55-a556-1e92b37654f4",
+   "annotation_type": "SKIP_INTRO",
+   "activity_id": "8325233",
+   "activity_type": "BUTTON",
+   "params": {
+    "on_click": {
+     "strategy": "SEEK_EXACTLY",
+     "target_position_ms": 10000
+    },
+    "show": {
+     "strategy": "AT_TIME",
+     "end_position_ms": 10000,
+     "start_position_ms": 0
+    },
+    "text": "Пропустить"
+   }
+  },
+  {
+   "annotation_id": "a303cb4c-eb1f-46f7-90c4-3d592df8960f",
+   "annotation_type": "SKIP_TITLES",
+   "activity_id": "8325234",
+   "activity_type": "BUTTON",
+   "params": {
+    "on_click": {
+     "strategy": "HIDE"
+    },
+    "show": {
+     "strategy": "AT_TIME",
+     "end_position_ms": 3074000,
+     "start_position_ms": 3035000
+    },
+    "text": "Смотреть титры"
+   }
+  },
+  {
+   "annotation_id": "a303cb4c-eb1f-46f7-90c4-3d592df8960f",
+   "annotation_type": "SKIP_TITLES",
+   "activity_id": "8325235",
+   "activity_type": "BUTTON",
+   "params": {
+    "on_click": {
+     "strategy": "SWITCH_VIDEO",
+     "video_id": "e6df92f859f6dc099c400aa45a7dd1bd"
+    },
+    "show": {
+     "strategy": "AT_TIME",
+     "end_position_ms": 3074000,
+     "start_position_ms": 3035000
+    },
+    "text": "Следующая серия",
+    "progress": {
+     "strategy": "AUTO_TRIGGER",
+     "duration_ms": 6000
+    }
+   }
+  },
+  {
+   "annotation_id": "86bda998-e8ed-46a6-995e-3048a56ec893",
+   "annotation_type": "DISCLAIMER",
+   "activity_id": "121357",
+   "activity_type": "DISCLAIMER",
+   "params": {
+    "text": "Facebook и Instagram запрещены в РФ",
+    "show": {
+     "strategy": "PRIORITY",
+     "priority": 1,
+     "color_code": "#0000FF",
+     "duration_ms": 3000
+    }
+   }
+  },
+  {
+   "annotation_id": "b8e98256-ee0d-49d4-bb1d-f8284d91f673",
+   "annotation_type": "DISCLAIMER",
+   "activity_id": "121358",
+   "activity_type": "DISCLAIMER",
+   "params": {
+    "text": "Незаконное потребление наркотических средств, психотропных веществ, их аналогов причиняет вред здоровью, их незаконный оборот запрещен и влечет установленную законодательством ответственность",
+    "show": {
+     "strategy": "PRIORITY",
+     "priority": 4,
+     "color_code": "#0000FF",
+     "duration_ms": 3000
+    }
+   }
+  },
+  {
+   "annotation_id": "2e15bb81-da67-41b1-a949-43ef1e23887b",
+   "annotation_type": "DISCLAIMER",
+   "activity_id": "121359",
+   "activity_type": "DISCLAIMER",
+   "params": {
+    "text": "Видео может содержать сцены употребления табака/алкоголя. Алкоголь и никотин вредят здоровью",
+    "show": {
+     "strategy": "PRIORITY",
+     "color_code": "#0000FF",
+     "duration_ms": 3000,
+     "priority": 2
+    }
+   }
+  }
+ ]
+}

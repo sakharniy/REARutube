@@ -1,0 +1,16 @@
+# Чужой код и бинарники: не публикуем
+apk/
+re/
+tools/
+
+# Ключ подписи клиента: без него обновления не встанут поверх старых сборок
+client/keystore/
+client/keystore.properties
+
+# Сборка
+client/.gradle/
+client/.kotlin/
+client/build/
+client/app/build/
+client/local.properties
+dist/

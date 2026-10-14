@@ -1,0 +1,120 @@
+{
+ "result": [
+  {
+   "slug": "main_Android_TV",
+   "name": "Боковое меню на Android TV",
+   "links": [
+    {
+     "title": "Поиск",
+     "url": "rutube://rutube.ru/search",
+     "icon": "https://pic.rtbcdn.ru/links/2026-08-28/6b/18/6b185e5023d3c228084a5a7cb204aaeb.png",
+     "extra_icon": "https://pic.rtbcdn.ru/links/2026-08-28/c9/c9/c9c96dc77985d4b7eea9c5fd58cb8550.png",
+     "client_version": null,
+     "link_id": 1074
+    },
+    {
+     "title": "Главная",
+     "url": "rutube://rutube.ru/main",
+     "icon": "https://pic.rtbcdn.ru/links/2026-08-28/fc/06/fc066098c019fcc0f33adea6714c15a0.png",
+     "extra_icon": "https://pic.rtbcdn.ru/links/2026-08-28/d8/0f/d80ffd7e6a0023929402438b648782c5.png",
+     "client_version": null,
+     "link_id": 1076
+    },
+    {
+     "title": "Категории",
+     "url": "rutube://rutube.ru/catalog",
+     "icon": "https://pic.rtbcdn.ru/links/2026-08-28/bd/a7/bda7757b9d82ddf882832b17f1ab02c2.png",
+     "extra_icon": "https://pic.rtbcdn.ru/links/2026-08-28/03/78/0378eba8f36d0855e413e499d3e7bfcd.png",
+     "client_version": null,
+     "link_id": 1078
+    },
+    {
+     "title": "Кино и сериалы",
+     "url": "rutube://rutube.ru/movies-serials/",
+     "icon": "https://pic.rtbcdn.ru/links/2026-08-28/01/63/0163072c9ca331cf0dffef540074dee7.png",
+     "extra_icon": "https://pic.rtbcdn.ru/links/2026-08-28/62/ba/62ba354a3c0c29f6196d6f9b4472f9cb.png",
+     "client_version": null,
+     "link_id": 1137
+    },
+    {
+     "title": "Верни 2006",
+     "url": "rutube://rutube.ru/feeds/birthday/",
+     "icon": "https://pic.rtbcdn.ru/links/2026-10-12/73/82/7382a83fdaaeaace0f55885873481d85.svg",
+     "extra_icon": "https://pic.rtbcdn.ru/links/2026-10-12/a4/1f/a41fc808b42e397f88ed7185c3a79c52.svg",
+     "client_version": null,
+     "link_id": 1146
+    },
+    {
+     "title": "Детям",
+     "url": "rutube://rutube.ru/kids",
+     "icon": "https://pic.rtbcdn.ru/links/2026-08-28/54/7c/547c934b14360407d621b24740ec792a.png",
+     "extra_icon": "https://pic.rtbcdn.ru/links/2026-08-28/26/1f/261f2fb79cc3b3bc8717b585284e48b9.png",
+     "client_version": null,
+     "link_id": 1082
+    },
+    {
+     "title": "Спорт",
+     "url": "rutube://rutube.ru/sport",
+     "icon": "https://pic.rtbcdn.ru/links/2026-08-28/9a/96/9a96d259e08490cfcf43b8473415108d.png",
+     "extra_icon": "https://pic.rtbcdn.ru/links/2026-08-28/35/bb/35bb390c53b3d73a3c75d7acf8c0807a.png",
+     "client_version": null,
+     "link_id": 1084
+    },
+    {
+     "title": "ТВ-каналы",
+     "url": "rutube://rutube.ru/tv-channels",
+     "icon": "https://pic.rtbcdn.ru/links/2026-08-28/d3/7d/d37da362203a0cd02dad46a8bc436400.png",
+     "extra_icon": "https://pic.rtbcdn.ru/links/2026-08-28/55/00/550046935f943e16b394c4b76f508716.png",
+     "client_version": null,
+     "link_id": 1086
+    }
+   ]
+  },
+  {
+   "slug": "my_Android_TV",
+   "name": "Мое на Android TV",
+   "links": [
+    {
+     "title": "Подписки",
+     "url": "rutube://rutube.ru/my/subscriptions",
+     "icon": "",
+     "extra_icon": "",
+     "client_version": null,
+     "link_id": 1088
+    },
+    {
+     "title": "Смотреть позже",
+     "url": "rutube://rutube.ru/my/watch-later",
+     "icon": "",
+     "extra_icon": "",
+     "client_version": null,
+     "link_id": 1090
+    },
+    {
+     "title": "Плейлисты",
+     "url": "rutube://rutube.ru/my/playlists",
+     "icon": "",
+     "extra_icon": "",
+     "client_version": null,
+     "link_id": 1092
+    },
+    {
+     "title": "История просмотров",
+     "url": "rutube://rutube.ru/my/watch-history",
+     "icon": "",
+     "extra_icon": "",
+     "client_version": null,
+     "link_id": 1094
+    },
+    {
+     "title": "Понравилось",
+     "url": "rutube://rutube.ru/my/liked/",
+     "icon": "",
+     "extra_icon": "",
+     "client_version": null,
+     "link_id": 1096
+    }
+   ]
+  }
+ ]
+}

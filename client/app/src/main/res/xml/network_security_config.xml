@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- ISRG Root X1 (Let's Encrypt, used by rutube.ru) is missing from Android 7.0's system store. -->
+    <base-config cleartextTrafficPermitted="false">
+        <trust-anchors>
+            <certificates src="system" />
+            <certificates src="@raw/isrg_root_x1" />
+        </trust-anchors>
+    </base-config>
+
+    <!-- The official app also trusts the Russian national root; keep it limited to Rutube's own domains. -->
+    <domain-config>
+        <domain includeSubdomains="true">rutube.ru</domain>
+        <domain includeSubdomains="true">rutubelist.ru</domain>
+        <domain includeSubdomains="true">rtbcdn.ru</domain>
+        <trust-anchors>
+            <certificates src="system" />
+            <certificates src="@raw/isrg_root_x1" />
+            <certificates src="@raw/russian_trusted_root_ca" />
+        </trust-anchors>
+    </domain-config>
+</network-security-config>
